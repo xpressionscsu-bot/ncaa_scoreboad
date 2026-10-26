@@ -60,6 +60,13 @@ button.primary{background:var(--ice);border-color:var(--ice);color:#fff;font-wei
 .meta{font:12px var(--f-mono);color:var(--muted);margin-top:2px}
 .status{font:600 12px var(--f-display);letter-spacing:.1em;text-transform:uppercase;text-align:right;white-space:nowrap}
 .status.live{color:var(--husky)} .status.final{color:var(--muted)} .status.pre{color:var(--ice)}
+.res{font:700 17px var(--f-display);letter-spacing:.04em;font-variant-numeric:tabular-nums;white-space:nowrap}
+.res.W{color:var(--good)} .res.L{color:var(--husky)} .res.T{color:var(--muted)}
+.manual{display:flex;flex-wrap:wrap;gap:6px 8px;align-items:center;margin-top:8px;padding-top:8px;border-top:1px dashed var(--line);font:12px var(--f-mono);color:var(--muted)}
+.manual input[type=number]{width:54px;padding:3px 6px;font:500 14px var(--f-mono)}
+.manual label{font:600 12px var(--f-display);letter-spacing:.06em;text-transform:uppercase;display:flex;align-items:center;gap:4px;color:var(--muted)}
+.manual input[type=checkbox]{width:15px;height:15px;accent-color:var(--husky)}
+.manual a{color:var(--ice);font:600 12px var(--f-display);letter-spacing:.06em;text-transform:uppercase}
 .empty{padding:22px;text-align:center;color:var(--muted);background:var(--panel);border:1px dashed var(--line);border-radius:6px}
 .out{position:sticky;top:10px;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:12px}
 .out h2{font:700 15px var(--f-display);letter-spacing:.1em;text-transform:uppercase;margin:0 0 8px;display:flex;justify-content:space-between}
@@ -138,7 +145,7 @@ var state = {
   tab: "all", q: "",
   ncaa: [],        // games for selected date
   scsu: [],        // all parsed SCSU events
-  sel: {},         // id -> game object (persists across dates)
+  sel: {}, manual: {},         // id -> game object (persists across dates)
   scsuAll: false, win: 1, loading: false, req: 0,
   notes: {}
 };
@@ -148,8 +155,8 @@ function dayKey(d){ return new Intl.DateTimeFormat("en-CA",{timeZone:TZ,year:"nu
 function addDays(key,n){ var p=key.split("-").map(Number); var d=new Date(Date.UTC(p[0],p[1]-1,p[2]+n)); return d.toISOString().slice(0,10); }
 function esc(s){ return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]}); }
 function isScsu(s){ return /st\.?\s*cloud\s*st/i.test(s||""); }
-function save(){ try{ localStorage.setItem(LS, JSON.stringify({sel:state.sel,scsuAll:state.scsuAll,win:state.win})); }catch(e){} }
-function load(){ try{ var o=JSON.parse(localStorage.getItem(LS)||"{}"); if(o.sel) state.sel=o.sel; state.scsuAll=!!o.scsuAll; if(o.win) state.win=o.win; }catch(e){} }
+function save(){ try{ localStorage.setItem(LS, JSON.stringify({sel:state.sel,manual:state.manual,scsuAll:state.scsuAll,win:state.win})); }catch(e){} }
+function load(){ try{ var o=JSON.parse(localStorage.getItem(LS)||"{}"); if(o.sel) state.sel=o.sel; if(o.manual) state.manual=o.manual; state.scsuAll=!!o.scsuAll; if(o.win) state.win=o.win; }catch(e){} }
 function note(msg){ var n=$("notice"); n.hidden=!msg; n.textContent=msg||""; }
 
 /* ---------- NCAA feed ---------- */
@@ -235,6 +242,17 @@ function icsDate(v){
   return {key:dayKey(d), time:new Intl.DateTimeFormat("en-US",{timeZone:TZ,hour:"numeric",minute:"2-digit"}).format(d)+" CT"};
 }
 var SPORTS=[["Ice Hockey",/hockey/i],["Basketball",/basketball/i],["Volleyball",/volleyball/i],["Wrestling",/wrestl/i],["Football",/football/i],["Soccer",/soccer/i],["Softball",/softball/i],["Baseball",/baseball/i],["Track & Field",/track/i],["Cross Country",/cross country/i],["Swimming & Diving",/swim/i],["Golf",/golf/i],["Tennis",/tennis/i]];
+function parseResult(text){
+  var m=/\b(W|L|T)\b[\s,.:]*(\d{1,3})\s*[-\u2013]\s*(\d{1,3})/.exec(text||"");
+  if(m) return {r:m[1].toUpperCase(),us:+m[2],them:+m[3]};
+  var w=/\b(Win|Loss|Tie)\b[^\d]{0,6}(\d{1,3})\s*[-\u2013]\s*(\d{1,3})/i.exec(text||"");
+  if(w) return {r:w[1][0].toUpperCase(),us:+w[2],them:+w[3]};
+  return null;
+}
+function startMs(v){
+  var m=/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})(Z)?$/.exec(v||""); if(!m) return null;
+  return m[7]?Date.UTC(+m[1],+m[2]-1,+m[3],+m[4],+m[5],+m[6]):new Date(+m[1],+m[2]-1,+m[3],+m[4],+m[5],+m[6]).getTime();
+}
 function icsToGame(e){
   var d=icsDate(e.DTSTART); if(!d) return null;
   var title=e.SUMMARY||"Event", hay=title+" "+(e.CATEGORIES||"");
@@ -242,7 +260,8 @@ function icsToGame(e){
   var gender=/women/i.test(hay)?"women":(/men/i.test(hay)?"men":"");
   var loc=e.LOCATION||"";
   return {id:"scsu-"+(e.UID||(title+d.key)), source:"scsu", sport:sport, gender:gender, date:d.key, title:title,
-    startTime:d.time, location:loc, home:/halenbeck|brooks center|st\.? cloud, m/i.test(loc), status:"pre", url:e.URL||"", scsu:true};
+    startTime:d.time, startMs:startMs(e.DTSTART), location:loc, home:/halenbeck|brooks center|st\.? cloud, m/i.test(loc), status:"pre", url:e.URL||"", scsu:true,
+    result:parseResult(title+" "+(e.DESCRIPTION||""))};
 }
 function fetchScsu(){
   return fetch(ICS_URL).then(function(r){ if(!r.ok) throw new Error(r.status); return r.text(); })
@@ -287,10 +306,26 @@ function syncScsuAll(){
 }
 
 /* ---------- output ---------- */
+var LIVE_MS=3.5*3600*1000;
+function scsuView(g){
+  var m=state.manual[g.id]||null, res=g.result||null, score=null, src="";
+  if(m && m.us!==""&&m.us!=null && m.them!==""&&m.them!=null){ score={us:Number(m.us),them:Number(m.them)}; src="manual"; }
+  else if(res){ score={us:res.us,them:res.them}; src=g.scoreSource||"calendar"; }
+  var final = !!((m&&m.final) || (res && src!=="manual"));
+  var now=Date.now(), st="pre";
+  if(final) st="final";
+  else if(score) st="live";
+  else if(g.startMs && now>=g.startMs && now<=g.startMs+LIVE_MS) st="live";
+  else if(g.startMs && now>g.startMs+LIVE_MS) st="past";
+  var r=null; if(final&&score) r=score.us>score.them?"W":(score.us<score.them?"L":"T");
+  return {score:score,src:src,status:st,result:r};
+}
 function outGame(g){
   if(g.source==="ncaa") return {id:g.id,source:"ncaa",sport:g.sport,gender:g.gender,date:g.date,status:g.status,startTime:g.startTime,period:g.period,clock:g.clock,
     away:{name:g.away.name,score:g.away.score,conference:g.away.conf},home:{name:g.home.name,score:g.home.score,conference:g.home.conf},url:g.url,stCloudState:!!g.scsu};
-  return {id:g.id,source:"scsu",sport:g.sport,gender:g.gender,date:g.date,title:g.title,startTime:g.startTime,location:g.location,homeGame:!!g.home,url:g.url,stCloudState:true};
+  var v=scsuView(g);
+  return {id:g.id,source:"scsu",sport:g.sport,gender:g.gender,date:g.date,title:g.title,startTime:g.startTime,location:g.location,homeGame:!!g.home,status:v.status,
+    result:v.result,score:v.score?{stCloudState:v.score.us,opponent:v.score.them}:null,scoreSource:v.score?v.src:null,url:g.url,stCloudState:true};
 }
 function buildJson(){
   var games=Object.keys(state.sel).map(function(k){return state.sel[k]}).sort(function(a,b){return a.date<b.date?-1:a.date>b.date?1:(a.id<b.id?-1:1)});
@@ -309,8 +344,17 @@ function gameHtml(g){
            : g.status==="final" ? '<div class="status final">'+esc(g.note||"Final")+'</div>'
            : '<div class="status pre">'+esc(g.startTime||"Upcoming")+'</div>';
   } else {
-    body='<div class="single">'+esc(g.title)+'</div><div class="meta">'+esc(g.date+" · "+g.sport+(g.gender?" · "+(g.gender==="women"?"Women":"Men"):"")+(g.location?" · "+g.location:""))+'</div>';
-    status='<div class="status pre">'+esc(g.startTime||"TBA")+'</div>';
+    var v=scsuView(g), liveLink=g.url||"https://scsuhuskies.com/";
+    var man=state.manual[g.id]||{};
+    body='<div class="single">'+esc(g.title)+'</div><div class="meta">'+esc(g.date+" · "+g.sport+(g.gender?" · "+(g.gender==="women"?"Women":"Men"):"")+(g.location?" · "+g.location:""))+'</div>'+
+      '<div class="manual" data-man="'+esc(g.id)+'"><label>SCSU <input type="number" min="0" class="m-us" value="'+esc(man.us==null?"":man.us)+'" aria-label="St. Cloud State score"></label>'+
+      '<label>Opp <input type="number" min="0" class="m-them" value="'+esc(man.them==null?"":man.them)+'" aria-label="Opponent score"></label>'+
+      '<label><input type="checkbox" class="m-final"'+(man.final?" checked":"")+'> Final</label>'+
+      '<a href="'+esc(liveLink)+'" target="_blank" rel="noopener">Game page</a></div>';
+    status = v.score ? '<div class="res '+(v.result||"")+'">'+(v.result?v.result+" ":"")+v.score.us+"-"+v.score.them+'<div class="status '+(v.status==="live"?"live":"final")+'">'+(v.status==="live"?"Live":"Final")+'</div></div>'
+           : v.status==="live" ? '<div class="status live">In progress</div>'
+           : v.status==="past" ? '<div class="status final">Ended</div>'
+           : '<div class="status pre">'+esc(g.startTime||"TBA")+'</div>';
   }
   return '<div class="game'+(on?" sel":"")+(g.scsu?" scsu":"")+'" data-id="'+esc(g.id)+'"><input type="checkbox" '+(on?"checked":"")+' aria-label="Include this game"><div class="teams">'+body+'</div>'+status+'</div>';
 }
@@ -323,6 +367,13 @@ function matches(g){
   if(!state.q) return true;
   var hay=(g.source==="ncaa"?[g.away.name,g.home.name,g.away.conf,g.home.conf].join(" "):[g.title,g.sport,g.location].join(" ")).toLowerCase();
   return hay.indexOf(state.q.toLowerCase())>=0;
+}
+function updateOut(){
+  var j=buildJson();
+  $("json").textContent=JSON.stringify(j,null,2);
+  $("count").textContent=j.count+(j.count===1?" game":" games");
+  var by={}; j.games.forEach(function(g){var k=g.source==="scsu"?"SCSU":(g.gender==="women"?"Women's hockey":"Men's hockey"); by[k]=(by[k]||0)+1;});
+  $("chips").innerHTML=Object.keys(by).map(function(k){return '<span class="chip">'+esc(k)+': '+by[k]+'</span>'}).join("");
 }
 var registry={};
 function render(){
@@ -337,11 +388,7 @@ function render(){
   $("lists").innerHTML=h;
   registry={}; state.ncaa.concat(scsuWindow()).forEach(function(g){registry[g.id]=g});
   registry.__lists={men:men,women:women,scsu:sc};
-  var j=buildJson();
-  $("json").textContent=JSON.stringify(j,null,2);
-  $("count").textContent=j.count+(j.count===1?" game":" games");
-  var by={}; j.games.forEach(function(g){var k=g.source==="scsu"?"SCSU":(g.gender==="women"?"Women's hockey":"Men's hockey"); by[k]=(by[k]||0)+1;});
-  $("chips").innerHTML=Object.keys(by).map(function(k){return '<span class="chip">'+esc(k)+': '+by[k]+'</span>'}).join("");
+  updateOut();
   document.querySelectorAll(".tab").forEach(function(b){b.setAttribute("aria-pressed",b.dataset.tab===state.tab)});
   $("scsuAll").checked=state.scsuAll; $("win").value=String(state.win);
   note([state.notes.ncaa,state.notes.scsu].filter(Boolean).join(" "));
@@ -351,12 +398,24 @@ function render(){
 $("lists").addEventListener("click",function(e){
   var all=e.target.closest("[data-all]");
   if(all){ (registry.__lists[all.dataset.all]||[]).forEach(function(g){state.sel[g.id]=g}); save(); render(); return; }
+  if(e.target.closest(".manual")) return;
   var card=e.target.closest(".game"); if(!card) return;
   var g=registry[card.dataset.id]; if(!g) return;
   var cb=card.querySelector("input");
   var on = e.target===cb ? cb.checked : !state.sel[g.id];
   toggleGame(g,on);
 });
+function manChange(e){
+  var box=e.target.closest(".manual"); if(!box) return;
+  var id=box.dataset.man, m=state.manual[id]=state.manual[id]||{};
+  m.us=box.querySelector(".m-us").value; m.them=box.querySelector(".m-them").value; m.final=box.querySelector(".m-final").checked;
+  save();
+  if(e.type==="change"&&e.target.classList.contains("m-final")) render(); else updateOut();
+}
+$("lists").addEventListener("input",manChange);
+$("lists").addEventListener("change",manChange);
+// refresh live/final status as time passes
+setInterval(function(){ if(!document.activeElement||document.activeElement.type!=="number") render(); },60000);
 document.querySelectorAll(".tab").forEach(function(b){ b.addEventListener("click",function(){state.tab=b.dataset.tab;render();}); });
 $("q").addEventListener("input",function(){state.q=this.value;render();});
 $("scsuAll").addEventListener("change",function(){state.scsuAll=this.checked;syncScsuAll();render();});
