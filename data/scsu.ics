@@ -1,0 +1,2877 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:St. Cloud State Athletics
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+UID:vcal_16789-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20260926T190000Z
+DTEND:20260926T220000Z
+LOCATION:Torrey Arena (MAC) • St. Cloud\, Minn.
+SUMMARY:[W] St. Cloud State Women's Hockey vs #7 UConn - Free Admission
+DESCRIPTION:[W] St. Cloud State Women's Hockey vs #7 UConn - Free Admission\nW 4-2\nTV: B1G+\nRadio: KVSC Sports Stream\nStreaming Video: https://www.bigtenplus.com/en-int/livestream/uconn-at-st-cloud-st/2211637\nStreaming Audio: https://corn.kvsc.org/sports\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16789&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16715-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20260926T190000Z
+DTEND:20260926T210000Z
+LOCATION:Gangelhoff Center • St. Paul\, Minn.
+SUMMARY:[L] St. Cloud State Volleyball at #5 Concordia-St. Paul
+DESCRIPTION:[L] St. Cloud State Volleyball at #5 Concordia-St. Paul\nL 2-3\nTV: NSIC Network\nStreaming Video: https://www.midcosportsplus.com/watch/1631\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16715&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16773-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+LOCATION:St. Cloud\, Minn., Husky Stadium
+SUMMARY:[L] St. Cloud State Men's Soccer vs Northern Michigan
+DESCRIPTION:[L] St. Cloud State Men's Soccer vs Northern Michigan\nL 0-4\nStreaming Video: https://flosports.link/4fHA2x8\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16773&amp;sport_id=25
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16753-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20260927T190000Z
+DTEND:20260927T210000Z
+LOCATION:St. Cloud\, Minn., Husky Stadium
+SUMMARY:[T] St. Cloud State Women's Soccer vs Sioux Falls - Youth Weekend
+DESCRIPTION:[T] St. Cloud State Women's Soccer vs Sioux Falls - Youth Weekend\nT 2-2\nStreaming Video: https://www.midcosportsplus.com/watch/1831\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=39860BD2-FDAE-450B-A511-9EF0C88660FA&menu_id=24EEF033-D40C-40E7-B9EF-EB07A1343EF0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16753&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16798-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+LOCATION: Bismarck\, ND | Hawktree Golf Club
+SUMMARY:[N] St. Cloud State Men's Golf at United Printing Marauders Invitational
+DESCRIPTION:[N] St. Cloud State Men's Golf at United Printing Marauders Invitational\n 5th of 12 Teams | 305-306 = 611\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16798&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16803-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+LOCATION:Bismarck\, ND | Hawktree GC
+SUMMARY:[N] St. Cloud State Women's Golf at United Printing Marauders Invitational
+DESCRIPTION:[N] St. Cloud State Women's Golf at United Printing Marauders Invitational\n No Team Score\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16803&amp;sport_id=24
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16716-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20260929T230000Z
+DTEND:20260930T010000Z
+LOCATION:McCown Gymnasium • Winona\, Minn.
+SUMMARY:[W] St. Cloud State Volleyball at Winona State
+DESCRIPTION:[W] St. Cloud State Volleyball at Winona State\nW 3-2\nTV: NSIC Network\nStreaming Video: https://www.midcosportsplus.com/watch/2441\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16716&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16774-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261002T180000Z
+DTEND:20261002T200000Z
+LOCATION:Grand Rapids\, Mich.
+SUMMARY:[W] St. Cloud State Men's Soccer at Davenport
+DESCRIPTION:[W] St. Cloud State Men's Soccer at Davenport\nW 1-0\nStreaming Video: https://www.flocollege.com/events/16097860-2026-st-cloud-state-vs-davenport-mens\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16774&amp;sport_id=25
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16908-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261002T210000Z
+DTEND:20261003T000000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall Aquatic Center
+SUMMARY:[L] St. Cloud State Women's Swim & Dive vs Northern Michigan
+DESCRIPTION:[L] St. Cloud State Women's Swim & Dive vs Northern Michigan\nL 86.5-156.5\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16908&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16939-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261002T210000Z
+DTEND:20261003T000000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall Aquatic Center
+SUMMARY:[W] St. Cloud State Men's Swim & Dive vs Northern Michigan
+DESCRIPTION:[W] St. Cloud State Men's Swim & Dive vs Northern Michigan\nW 158-84\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16939&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16717-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261002T230000Z
+DTEND:20261003T010000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:[W] St. Cloud State Volleyball vs MSU Moorhead - Homecoming // Alumnae Weekend
+DESCRIPTION:[W] St. Cloud State Volleyball vs MSU Moorhead - Homecoming // Alumnae Weekend\nW 3-0\nTV: NSIC Network\nStreaming Video: https://www.midcosportsplus.com/watch/1618\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C36EBA98-F50E-4DC3-A0BE-00CBAB74D49B&menu_id=67E2B35E-2D95-45DF-8625-4D6299AE8198\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16717&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16754-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261002T230000Z
+DTEND:20261003T010000Z
+LOCATION:Duluth\, Minn.
+SUMMARY:[W] St. Cloud State Women's Soccer at Minnesota Duluth
+DESCRIPTION:[W] St. Cloud State Women's Soccer at Minnesota Duluth\nW 2-1\nStreaming Video: https://www.midcosportsplus.com/watch/1465\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16754&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16673-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261002T230000Z
+DTEND:20261003T020000Z
+LOCATION:Mayo Clinic HSEC • Mankato\, Minn.
+SUMMARY:[W] St. Cloud State Women's Hockey at #15/14 Minnesota State
+DESCRIPTION:[W] St. Cloud State Women's Hockey at #15/14 Minnesota State\nW 5-2\nTV: B1G+\nRadio: KVSC Sports Stream\nStreaming Video: https://www.bigtenplus.com/en-int/livestream/st-cloud-st-at-minnesota-st-mankato/2211678\nStreaming Audio: https://corn.kvsc.org/sports\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16673&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16940-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261003T150000Z
+DTEND:20261003T180000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall Aquatic Center
+SUMMARY:[W] St. Cloud State Men's Swim & Dive vs Northern Michigan
+DESCRIPTION:[W] St. Cloud State Men's Swim & Dive vs Northern Michigan\nW 155-68\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16940&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16909-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261003T150000Z
+DTEND:20261003T180000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall Aquatic Center
+SUMMARY:[L] St. Cloud State Women's Swim & Dive vs Northern Michigan
+DESCRIPTION:[L] St. Cloud State Women's Swim & Dive vs Northern Michigan\nL 75.5-147.5\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16909&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16718-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261003T190000Z
+DTEND:20261003T210000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:[W] St. Cloud State Volleyball vs Minnesota Crookston - Homecoming // Alumnae Weekend // FREE Admission for All Fans
+DESCRIPTION:[W] St. Cloud State Volleyball vs Minnesota Crookston - Homecoming // Alumnae Weekend // FREE Admission for All Fans\nW 3-0\nTV: NSIC Network\nStreaming Video: https://www.midcosportsplus.com/watch/1612\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16718&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16674-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261003T200000Z
+DTEND:20261003T230000Z
+LOCATION:Mayo Clinic HSEC • Mankato\, Minn.
+SUMMARY:[W] St. Cloud State Women's Hockey at #15/14 Minnesota State
+DESCRIPTION:[W] St. Cloud State Women's Hockey at #15/14 Minnesota State\nW 3-0\nTV: B1G+\nRadio: KVSC Sports Stream\nStreaming Video: https://www.bigtenplus.com/en-int/livestream/st-cloud-st-at-minnesota-st-mankato/2211695\nStreaming Audio: https://corn.kvsc.org/sports\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16674&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16735-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+LOCATION:Sanford Center | Bemidji\, Minn.
+SUMMARY:[L] St. Cloud State Men's Hockey at Bemidji State
+DESCRIPTION:[L] St. Cloud State Men's Hockey at Bemidji State\nL 2-3 OT\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8646\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16735&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16775-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261004T150000Z
+DTEND:20261004T170000Z
+LOCATION:University Center\, Mich.
+SUMMARY:[L] St. Cloud State Men's Soccer at Saginaw Valley State
+DESCRIPTION:[L] St. Cloud State Men's Soccer at Saginaw Valley State\nL 0-4\nStreaming Video: https://www.flocollege.com/events/16098267-2026-st-cloud-state-vs-saginaw-valley-st-mens\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16775&amp;sport_id=25
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16755-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261004T180000Z
+DTEND:20261004T200000Z
+LOCATION:Bemidji\, Minn.
+SUMMARY:[L] St. Cloud State Women's Soccer at Bemidji State
+DESCRIPTION:[L] St. Cloud State Women's Soccer at Bemidji State\nL 2-3\nStreaming Video: https://www.midcosportsplus.com/watch/1843\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16755&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16756-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261009T170000Z
+DTEND:20261009T190000Z
+LOCATION:St. Cloud\, Minn., Husky Stadium
+SUMMARY:[W] St. Cloud State Women's Soccer vs Winona State - Breast Cancer Awareness Game
+DESCRIPTION:[W] St. Cloud State Women's Soccer vs Winona State - Breast Cancer Awareness Game\nW 2-1\nStreaming Video: https://www.midcosportsplus.com/watch/1832\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=39860BD2-FDAE-450B-A511-9EF0C88660FA&menu_id=24EEF033-D40C-40E7-B9EF-EB07A1343EF0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16756&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16776-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261009T200000Z
+DTEND:20261009T220000Z
+LOCATION:St. Cloud\, Minn., Husky Stadium
+SUMMARY:[L] St. Cloud State Men's Soccer vs Saginaw Valley State
+DESCRIPTION:[L] St. Cloud State Men's Soccer vs Saginaw Valley State\nL 1-3\nStreaming Video: https://flosports.link/4fHA2x8\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16776&amp;sport_id=25
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16792-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261009T223000Z
+DTEND:20261010T013000Z
+LOCATION:Class of 1965 Arena • Hamilton\, N.Y.
+SUMMARY:[L] St. Cloud State Women's Hockey at #14 Colgate
+DESCRIPTION:[L] St. Cloud State Women's Hockey at #14 Colgate\nL 2-4\nTV: ESPN+\nStreaming Video: https://www.espn.com/watch/player/_/id/fc4e789b-f4f0-49d6-941f-756f6e72b098\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16792&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16719-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261009T230000Z
+DTEND:20261010T010000Z
+LOCATION:BSU Gymnasium • Bemidji\, Minn.
+SUMMARY:[W] St. Cloud State Volleyball at Bemidji State
+DESCRIPTION:[W] St. Cloud State Volleyball at Bemidji State\nW 3-0\nTV: NSIC Network\nStreaming Video: https://www.midcosportsplus.com/watch/1856\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16719&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16736-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261010T000000Z
+DTEND:20261010T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:[L] St. Cloud State Men's Hockey vs Michigan Tech - Magnet Schedule Giveaway
+DESCRIPTION:[L] St. Cloud State Men's Hockey vs Michigan Tech - Magnet Schedule Giveaway\nL 2-3 OT\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1675\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8647\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16736&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16897-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261010T153000Z
+DTEND:20261010T183000Z
+LOCATION:Lewis Cross Country Course • Romeoville\, Ill.
+SUMMARY:[N] St. Cloud State Women's Cross Country at Lewis Crossover - 6k
+DESCRIPTION:[N] St. Cloud State Women's Cross Country at Lewis Crossover - 6k\n 25th of 26 teams\nStreaming Video: https://www.youtube.com/@thestridereport/streams\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16897&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16911-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261010T180000Z
+DTEND:20261010T210000Z
+LOCATION:LaCrosse\, Wis.
+SUMMARY:[N] St. Cloud State Women's Swim & Dive at UW-LaCrosse, Minnesota State, Truman State (Diving)
+DESCRIPTION:[N] St. Cloud State Women's Swim & Dive at UW-LaCrosse, Minnesota State, Truman State (Diving)\n 2nd of 3 Teams // 686 points\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16911&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16942-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261010T180000Z
+DTEND:20261010T210000Z
+LOCATION:LaCrosse\, Wis.
+SUMMARY:[W] St. Cloud State Men's Swim & Dive at UW-LaCrosse
+DESCRIPTION:[W] St. Cloud State Men's Swim & Dive at UW-LaCrosse\nW 932-735\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16942&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16720-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261010T210000Z
+DTEND:20261010T230000Z
+LOCATION:Romano Gymnasium • Duluth\, Minn.
+SUMMARY:[W] St. Cloud State Volleyball at #14 Minnesota Duluth
+DESCRIPTION:[W] St. Cloud State Volleyball at #14 Minnesota Duluth\nW 3-0\nTV: NSIC Network\nStreaming Video: https://www.midcosportsplus.com/watch/1475\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16720&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16793-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261010T220000Z
+DTEND:20261011T010000Z
+LOCATION:Class of 1965 Arena • Hamilton\, N.Y.
+SUMMARY:[L] St. Cloud State Women's Hockey at #14 Colgate
+DESCRIPTION:[L] St. Cloud State Women's Hockey at #14 Colgate\nL 1-2\nTV: ESPN+\nStreaming Video: https://www.espn.com/watch/player/_/id/d6e4768e-2608-49df-ae11-25e9daee9136\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16793&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16737-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:[W] St. Cloud State Men's Hockey vs Michigan Tech - Hockey Fights Cancer
+DESCRIPTION:[W] St. Cloud State Men's Hockey vs Michigan Tech - Hockey Fights Cancer\nW 5-3\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1676\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8648\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16737&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16777-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261011T170000Z
+DTEND:20261011T190000Z
+LOCATION:St. Cloud\, Minn., Husky Stadium
+SUMMARY:[T] St. Cloud State Men's Soccer vs Davenport - Senior Night
+DESCRIPTION:[T] St. Cloud State Men's Soccer vs Davenport - Senior Night\nT 3-3\nStreaming Video: https://flosports.link/4fHA2x8\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16777&amp;sport_id=25
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16757-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261011T180000Z
+DTEND:20261011T200000Z
+LOCATION:St. Paul\, Minn.
+SUMMARY:[W] St. Cloud State Women's Soccer at Concordia-St. Paul
+DESCRIPTION:[W] St. Cloud State Women's Soccer at Concordia-St. Paul\nW 1-0\nStreaming Video: https://www.midcosportsplus.com/watch/1551\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16757&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16800-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+LOCATION:Larchwood IA | The Falls GC
+SUMMARY:[N] St. Cloud State Men's Golf at USF Fall Invitational
+DESCRIPTION:[N] St. Cloud State Men's Golf at USF Fall Invitational\n 10th of 11 Teams | 316-308 = 624\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16800&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16805-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+LOCATION:Larchwood\, IA | The Falls Golf Course
+SUMMARY:[N] St. Cloud State Women's Golf at USF Fall Invitational
+DESCRIPTION:[N] St. Cloud State Women's Golf at USF Fall Invitational\n No Team Score\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16805&amp;sport_id=24
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16778-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261014T180000Z
+DTEND:20261014T200000Z
+LOCATION:St. Cloud\, Minn., Husky Stadium
+SUMMARY:[W] St. Cloud State Men's Soccer vs Roosevelt
+DESCRIPTION:[W] St. Cloud State Men's Soccer vs Roosevelt\nW 2-1\nStreaming Video: https://flosports.link/4fHA2x8\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16778&amp;sport_id=25
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16738-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261015T230000Z
+DTEND:20261016T020000Z
+LOCATION:Conte Forum | Chestnut Hill\, Mass.
+SUMMARY:[L] St. Cloud State Men's Hockey at Boston College
+DESCRIPTION:[L] St. Cloud State Men's Hockey at Boston College\nL 0-4\nTV: ESPN+\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://www.espn.com/watch/player/_/id/2ac89cb3-7fb2-4646-b631-8372e9a28c30\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8649\nTickets: https://bceagles.evenue.net/promotions/MH24SG?_ga=2.106093066.869700946.1791258551-1568689063.1790914354\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16738&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16779-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261016T190000Z
+DTEND:20261016T210000Z
+LOCATION:Marquette\, Mich.
+SUMMARY:[L] St. Cloud State Men's Soccer at Northern Michigan
+DESCRIPTION:[L] St. Cloud State Men's Soccer at Northern Michigan\nL 0-4\nStreaming Video: https://www.flocollege.com/events/16097678-2026-st-cloud-state-vs-northern-michigan-mens\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16779&amp;sport_id=25
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16758-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261016T220000Z
+DTEND:20261017T000000Z
+LOCATION:St. Cloud\, Minn., Husky Stadium
+SUMMARY:[W] St. Cloud State Women's Soccer vs Minnesota Crookston
+DESCRIPTION:[W] St. Cloud State Women's Soccer vs Minnesota Crookston\nW 2-0\nStreaming Video: https://www.midcosportsplus.com/watch/1833\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=39860BD2-FDAE-450B-A511-9EF0C88660FA&menu_id=24EEF033-D40C-40E7-B9EF-EB07A1343EF0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16758&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16721-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261016T230000Z
+DTEND:20261017T010000Z
+LOCATION:Wachs Arena • Aberdeen\, S.D.
+SUMMARY:[L] St. Cloud State Volleyball at Northern State
+DESCRIPTION:[L] St. Cloud State Volleyball at Northern State\nL 1-3\nTV: NSIC Network\nStreaming Video: https://www.midcosportsplus.com/watch/1671\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16721&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16675-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261016T230000Z
+DTEND:20261017T020000Z
+LOCATION:Lee & Penny Anderson Arena • St. Paul\, Minn.
+SUMMARY:[W] St. Cloud State Women's Hockey at (RV) St. Thomas
+DESCRIPTION:[W] St. Cloud State Women's Hockey at (RV) St. Thomas\nW 3-2 OT\nTV: B1G+\nRadio: 97.5 FM RadioX\nStreaming Video: https://www.bigtenplus.com/en-int/livestream/st-cloud-st-at-st-thomas/2211807\nStreaming Audio: https://corn.kvsc.org/radiox\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16675&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16893-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+LOCATION:River Oaks Golf Club • Cold Spring\, Minn.
+SUMMARY:[N] St. Cloud State Men's Cross Country at SJU Autumn Classic - 8k
+DESCRIPTION:[N] St. Cloud State Men's Cross Country at SJU Autumn Classic - 8k\n Incomplete Team\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16893&amp;sport_id=20
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16722-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+LOCATION:Harold Newman Arena • Jamestown\, N.D.
+SUMMARY:[W] St. Cloud State Volleyball at Jamestown
+DESCRIPTION:[W] St. Cloud State Volleyball at Jamestown\nW 3-1\nTV: NSIC Network\nStreaming Video: https://www.midcosportsplus.com/watch/2418\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16722&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16676-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261017T190000Z
+DTEND:20261017T220000Z
+LOCATION:Lee & Penny Anderson Arena • St. Paul\, Minn.
+SUMMARY:[W] St. Cloud State Women's Hockey at (RV) St. Thomas
+DESCRIPTION:[W] St. Cloud State Women's Hockey at (RV) St. Thomas\nW 1-0\nTV: B1G+\nRadio: 97.5 FM RadioX\nStreaming Video: https://www.bigtenplus.com/en-int/livestream/st-cloud-st-at-st-thomas/2211823\nStreaming Audio: https://corn.kvsc.org/radiox\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16676&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16739-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261017T220000Z
+DTEND:20261018T010000Z
+LOCATION:Conte Forum | Chestnut Hill\, Mass.
+SUMMARY:[W] St. Cloud State Men's Hockey at Boston College
+DESCRIPTION:[W] St. Cloud State Men's Hockey at Boston College\nW 5-3\nTV: ESPN+\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8650\nTickets: https://bceagles.evenue.net/promotions/MH24SG?_ga=2.262814085.869700946.1791258551-1568689063.1790914354\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16739&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16759-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+LOCATION:St. Cloud\, Minn., Husky Stadium
+SUMMARY:[W] St. Cloud State Women's Soccer vs MSU Moorhead
+DESCRIPTION:[W] St. Cloud State Women's Soccer vs MSU Moorhead\nW 4-0\nStreaming Video: https://www.midcosportsplus.com/watch/1834\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=39860BD2-FDAE-450B-A511-9EF0C88660FA&menu_id=24EEF033-D40C-40E7-B9EF-EB07A1343EF0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16759&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16975-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+LOCATION:Joplin\, MO | Twin Hills Golf and CC
+SUMMARY:[N] St. Cloud State Men's Golf at MSSU Fall Invitational
+DESCRIPTION:[N] St. Cloud State Men's Golf at MSSU Fall Invitational\n 10th of 12 Teams | 308-306-302 = 916\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16975&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16723-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:[W] St. Cloud State Volleyball vs #7 Concordia-St. Paul - Red Out // Res Life Night
+DESCRIPTION:[W] St. Cloud State Volleyball vs #7 Concordia-St. Paul - Red Out // Res Life Night\nW 3-1\nTV: NSIC Network\nRadio: KVSC Sports Stream\nStreaming Video: https://www.midcosportsplus.com/watch/1613\nStreaming Audio: https://corn.kvsc.org/sports\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C36EBA98-F50E-4DC3-A0BE-00CBAB74D49B&menu_id=67E2B35E-2D95-45DF-8625-4D6299AE8198\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16723&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16780-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261023T180000Z
+DTEND:20261023T200000Z
+LOCATION:Hammond\, Ind.
+SUMMARY:[L] St. Cloud State Men's Soccer at Purdue Northwest
+DESCRIPTION:[L] St. Cloud State Men's Soccer at Purdue Northwest\nL 1-3\nStreaming Video: https://www.flocollege.com/events/16097889-2026-st-cloud-state-vs-purdue-northwest-mens\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16780&amp;sport_id=25
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16978-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261023T190000Z
+DTEND:20261023T220000Z
+LOCATION:Maple Grove Venues • West Salem\, Wis.
+SUMMARY:[N] St. Cloud State Women's Cross Country at Winona State Invitational - 6k
+DESCRIPTION:[N] St. Cloud State Women's Cross Country at Winona State Invitational - 6k\n 9th of 10 teams\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16978&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16976-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261023T200000Z
+DTEND:20261023T230000Z
+LOCATION:Maple Grove Venues • West Salem\, Wis.
+SUMMARY:[N] St. Cloud State Men's Cross Country at Winona State Invitational - 8k
+DESCRIPTION:[N] St. Cloud State Men's Cross Country at Winona State Invitational - 8k\n Incomplete Team\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16976&amp;sport_id=20
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16760-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261023T210000Z
+DTEND:20261023T230000Z
+LOCATION:Sioux Falls\, S.D.
+SUMMARY:[L] St. Cloud State Women's Soccer at Augustana
+DESCRIPTION:[L] St. Cloud State Women's Soccer at Augustana\nL 2-3\nStreaming Video: https://www.midcosportsplus.com/watch/1585\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16760&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16724-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261023T230000Z
+DTEND:20261024T010000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:[W] St. Cloud State Volleyball vs UMary - High School Night // Post Match Autographs
+DESCRIPTION:[W] St. Cloud State Volleyball vs UMary - High School Night // Post Match Autographs\nW 3-0\nTV: NSIC Network\nRadio: 97.5 FM RadioX\nStreaming Video: https://www.midcosportsplus.com/watch/1614\nStreaming Audio: https://corn.kvsc.org/radiox\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C36EBA98-F50E-4DC3-A0BE-00CBAB74D49B&menu_id=67E2B35E-2D95-45DF-8625-4D6299AE8198\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16724&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16677-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:[W] St. Cloud State Women's Hockey vs Bemidji State - Youth Day // Schedule Poster Giveaway // Post-Game Autographs (Evens)
+DESCRIPTION:[W] St. Cloud State Women's Hockey vs Bemidji State - Youth Day // Schedule Poster Giveaway // Post-Game Autographs (Evens)\nW 2-1\nTV: B1G+\nRadio: KVSC Sports Stream\nStreaming Video: https://www.bigtenplus.com/en-int/livestream/bemidji-st-at-st-cloud-st/2211856\nStreaming Audio: https://corn.kvsc.org/sports\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16677&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16725-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261024T170000Z
+DTEND:20261024T190000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:[W] St. Cloud State Volleyball vs Minot State - Dig Pink Match // Military Appreciation Day
+DESCRIPTION:[W] St. Cloud State Volleyball vs Minot State - Dig Pink Match // Military Appreciation Day\nW 3-0\nTV: NSIC Network\nRadio: 97.5 FM RadioX\nStreaming Video: https://www.midcosportsplus.com/watch/1615\nStreaming Audio: https://corn.kvsc.org/radiox\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C36EBA98-F50E-4DC3-A0BE-00CBAB74D49B&menu_id=67E2B35E-2D95-45DF-8625-4D6299AE8198\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16725&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16678-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261024T190000Z
+DTEND:20261024T220000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:[W] St. Cloud State Women's Hockey vs Bemidji State
+DESCRIPTION:[W] St. Cloud State Women's Hockey vs Bemidji State\nW 3-1\nTV: B1G+\nRadio: KVSC Sports Stream\nStreaming Video: https://www.bigtenplus.com/en-int/livestream/bemidji-st-at-st-cloud-st/2211868\nStreaming Audio: https://corn.kvsc.org/sports\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16678&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16781-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+LOCATION:Parkside\, Wis.
+SUMMARY:[L] St. Cloud State Men's Soccer at UW-Parkside
+DESCRIPTION:[L] St. Cloud State Men's Soccer at UW-Parkside\nL 0-1\nStreaming Video: https://www.flocollege.com/events/16098090-2026-st-cloud-state-vs-uw-parkside-mens\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16781&amp;sport_id=25
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16761-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+LOCATION:Wayne\, Neb.
+SUMMARY:[W] St. Cloud State Women's Soccer at Wayne State
+DESCRIPTION:[W] St. Cloud State Women's Soccer at Wayne State\nW 1-0\nStreaming Video: https://www.midcosportsplus.com/watch/2256\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16761&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16726-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Volleyball vs Winona State - Faculty & Staff Appreciation Night
+DESCRIPTION:St. Cloud State Volleyball vs Winona State - Faculty & Staff Appreciation Night\nTV: NSIC Network\nRadio: 97.5 FM RadioX\nStreaming Video: https://www.midcosportsplus.com/watch/1616\nStreaming Audio: https://corn.kvsc.org/radiox\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C36EBA98-F50E-4DC3-A0BE-00CBAB74D49B&menu_id=67E2B35E-2D95-45DF-8625-4D6299AE8198\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16726&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16835-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261029T000000Z
+DTEND:20261029T020000Z
+LOCATION:Brookings\, SD
+SUMMARY:St. Cloud State Women's Basketball at South Dakota State University (Exhibition)
+DESCRIPTION:St. Cloud State Women's Basketball at South Dakota State University (Exhibition)\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8703\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16835&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16762-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261029T220000Z
+DTEND:20261030T000000Z
+LOCATION:St. Cloud\, Minn., Husky Stadium
+SUMMARY:St. Cloud State Women's Soccer vs Minnesota State - Faculty & Staff Appreciation Day
+DESCRIPTION:St. Cloud State Women's Soccer vs Minnesota State - Faculty & Staff Appreciation Day\nStreaming Video: https://www.midcosportsplus.com/watch/1835\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=39860BD2-FDAE-450B-A511-9EF0C88660FA&menu_id=24EEF033-D40C-40E7-B9EF-EB07A1343EF0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16762&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16977-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+LOCATION:Collegeville\, MN
+SUMMARY:St. Cloud State Men's Basketball at Saint John's University - Exhibition
+DESCRIPTION:St. Cloud State Men's Basketball at Saint John's University - Exhibition\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8711\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16977&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16869-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261030T000000Z
+DTEND:20261030T030000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Wrestling vs Black/Red Classic - Parents Night
+DESCRIPTION:St. Cloud State Wrestling vs Black/Red Classic - Parents Night\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16869&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16913-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+LOCATION:Vermillion\, S.D.
+SUMMARY:St. Cloud State Women's Swim & Dive at Coyote Extravaganza
+DESCRIPTION:St. Cloud State Women's Swim & Dive at Coyote Extravaganza\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16913&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16944-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+LOCATION:Vermillion\, S.D.
+SUMMARY:St. Cloud State Men's Swim & Dive at Coyote Extravaganza
+DESCRIPTION:St. Cloud State Men's Swim & Dive at Coyote Extravaganza\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16944&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16679-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261030T190000Z
+DTEND:20261030T220000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs Wisconsin
+DESCRIPTION:St. Cloud State Women's Hockey vs Wisconsin\nTV: FOX9+/B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16679&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16727-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261030T230000Z
+DTEND:20261031T010000Z
+LOCATION:Rice Auditorium • Wayne\, Neb.
+SUMMARY:St. Cloud State Volleyball at Wayne State
+DESCRIPTION:St. Cloud State Volleyball at Wayne State\nTV: NSIC Network\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16727&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16645-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261031T000000Z
+DTEND:20261031T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Arizona State - Player Poster Giveaway
+DESCRIPTION:St. Cloud State Men's Hockey vs Arizona State - Player Poster Giveaway\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1677\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8651\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16645&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16945-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+LOCATION:Vermillion\, S.D.
+SUMMARY:St. Cloud State Men's Swim & Dive at Coyote Extravaganza
+DESCRIPTION:St. Cloud State Men's Swim & Dive at Coyote Extravaganza\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16945&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16914-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+LOCATION:Vermillion\, S.D.
+SUMMARY:St. Cloud State Women's Swim & Dive at Coyote Extravaganza
+DESCRIPTION:St. Cloud State Women's Swim & Dive at Coyote Extravaganza\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16914&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16728-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+LOCATION:Elmen Center • Sioux Falls\, S.D.
+SUMMARY:St. Cloud State Volleyball at Augustana
+DESCRIPTION:St. Cloud State Volleyball at Augustana\nTV: NSIC Network\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16728&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16680-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261031T180000Z
+DTEND:20261031T210000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs Wisconsin
+DESCRIPTION:St. Cloud State Women's Hockey vs Wisconsin\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16680&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16646-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Arizona State - Youth Jersey Shirt Giveaway
+DESCRIPTION:St. Cloud State Men's Hockey vs Arizona State - Youth Jersey Shirt Giveaway\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1678\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8652\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16646&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16782-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+LOCATION:TBD
+SUMMARY:St. Cloud State Men's Soccer vs GLIAC Tournament
+DESCRIPTION:St. Cloud State Men's Soccer vs GLIAC Tournament\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16782&amp;sport_id=25
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16763-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261108
+LOCATION:TBD
+SUMMARY:St. Cloud State Women's Soccer vs NSIC Tournament
+DESCRIPTION:St. Cloud State Women's Soccer vs NSIC Tournament\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16763&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16729-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261107T000000Z
+DTEND:20261107T020000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Volleyball vs Sioux Falls - Family Night
+DESCRIPTION:St. Cloud State Volleyball vs Sioux Falls - Family Night\nTV: NSIC Network\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C36EBA98-F50E-4DC3-A0BE-00CBAB74D49B&menu_id=67E2B35E-2D95-45DF-8625-4D6299AE8198\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16729&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16647-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+LOCATION:Baxter Arena | Omaha\, Neb.
+SUMMARY:St. Cloud State Men's Hockey at Omaha
+DESCRIPTION:St. Cloud State Men's Hockey at Omaha\nTV: NCHC.tv\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1648\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8653\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjdIT0MwMw==\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16647&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16871-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:Des Moines\, IA
+SUMMARY:St. Cloud State Wrestling at All-Star Showcase
+DESCRIPTION:St. Cloud State Wrestling at All-Star Showcase\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16871&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16915-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:St. Paul\, Minn.
+SUMMARY:St. Cloud State Women's Swim & Dive at St. Thomas
+DESCRIPTION:St. Cloud State Women's Swim & Dive at St. Thomas\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16915&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16946-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:St. Paul\, Minn.
+SUMMARY:St. Cloud State Men's Swim & Dive at St. Thomas
+DESCRIPTION:St. Cloud State Men's Swim & Dive at St. Thomas\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16946&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16894-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261107T160000Z
+DTEND:20261107T190000Z
+LOCATION:Yankton Trail Park • Sioux Falls\, S.D.
+SUMMARY:St. Cloud State Men's Cross Country vs NSIC Championships - 8k
+DESCRIPTION:St. Cloud State Men's Cross Country vs NSIC Championships - 8k\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16894&amp;sport_id=20
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16870-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261107T160000Z
+DTEND:20261107T190000Z
+LOCATION:Rochester\, MN 
+SUMMARY:St. Cloud State Wrestling at Yellowjacket Open
+DESCRIPTION:St. Cloud State Wrestling at Yellowjacket Open\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16870&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16898-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261107T171500Z
+DTEND:20261107T201500Z
+LOCATION:Yankton Trail Park • Sioux Falls\, S.D.
+SUMMARY:St. Cloud State Women's Cross Country vs NSIC Championships - 6k
+DESCRIPTION:St. Cloud State Women's Cross Country vs NSIC Championships - 6k\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16898&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16730-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261107T200000Z
+DTEND:20261107T220000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Volleyball vs Southwest Minnesota State - Senior Day
+DESCRIPTION:St. Cloud State Volleyball vs Southwest Minnesota State - Senior Day\nTV: NSIC Network\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C36EBA98-F50E-4DC3-A0BE-00CBAB74D49B&menu_id=67E2B35E-2D95-45DF-8625-4D6299AE8198\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16730&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16648-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+LOCATION:Baxter Arena | Omaha\, Neb.
+SUMMARY:St. Cloud State Men's Hockey at Omaha
+DESCRIPTION:St. Cloud State Men's Hockey at Omaha\nTV: NCHC.tv\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1649\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8654\nTickets: https://am.ticketmaster.com/uno/buy/ism/MjdIT0MwNA==\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16648&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16806-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261110T000000Z
+DTEND:20261110T020000Z
+LOCATION:Crookston\, MN
+SUMMARY:St. Cloud State Men's Basketball at University of Minnesota Crookston
+DESCRIPTION:St. Cloud State Men's Basketball at University of Minnesota Crookston\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8712\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16806&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16731-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+LOCATION:Higher Seed
+SUMMARY:St. Cloud State Volleyball vs NSIC Tournament Quarterfinals
+DESCRIPTION:St. Cloud State Volleyball vs NSIC Tournament Quarterfinals\nTV: NSIC Network\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16731&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16947-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261112T220000Z
+DTEND:20261113T010000Z
+LOCATION:Eau Claire\, Wis.
+SUMMARY:St. Cloud State Men's Swim & Dive at UW-Eau Claire
+DESCRIPTION:St. Cloud State Men's Swim & Dive at UW-Eau Claire\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16947&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16916-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261112T220000Z
+DTEND:20261113T010000Z
+LOCATION:Eau Claire\, Wis.
+SUMMARY:St. Cloud State Women's Swim & Dive at UW-Eau Claire
+DESCRIPTION:St. Cloud State Women's Swim & Dive at UW-Eau Claire\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16916&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16732-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+LOCATION:Highest Remaining Seed
+SUMMARY:St. Cloud State Volleyball vs NSIC Tournament Semifinals/Championship
+DESCRIPTION:St. Cloud State Volleyball vs NSIC Tournament Semifinals/Championship\nTV: NSIC Network\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16732&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16808-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261113T190000Z
+DTEND:20261113T210000Z
+LOCATION:St. Joseph\, MO
+SUMMARY:St. Cloud State Men's Basketball at Missouri Western State University
+DESCRIPTION:St. Cloud State Men's Basketball at Missouri Western State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8713\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16808&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16836-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261113T210000Z
+DTEND:20261113T230000Z
+LOCATION:Marshall\, MN
+SUMMARY:St. Cloud State Women's Basketball at Washburn University
+DESCRIPTION:St. Cloud State Women's Basketball at Washburn University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8704\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16836&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16917-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261113T220000Z
+DTEND:20261114T010000Z
+LOCATION:Eau Claire\, Wis.
+SUMMARY:St. Cloud State Women's Swim & Dive at UW-Eau Claire
+DESCRIPTION:St. Cloud State Women's Swim & Dive at UW-Eau Claire\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16917&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16948-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261113T220000Z
+DTEND:20261114T010000Z
+LOCATION:Eau Claire\, Wis.
+SUMMARY:St. Cloud State Men's Swim & Dive at UW-Eau Claire
+DESCRIPTION:St. Cloud State Men's Swim & Dive at UW-Eau Claire\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16948&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16681-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261114T000000Z
+DTEND:20261114T030000Z
+LOCATION:Ridder Arena • Minneapolis
+SUMMARY:St. Cloud State Women's Hockey at Minnesota
+DESCRIPTION:St. Cloud State Women's Hockey at Minnesota\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16681&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16649-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261114T010000Z
+DTEND:20261114T040000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Minnesota Duluth - Military Appreciation Weekend | Specialty Camo Jersey Auction
+DESCRIPTION:St. Cloud State Men's Hockey vs Minnesota Duluth - Military Appreciation Weekend | Specialty Camo Jersey Auction\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1679\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8655\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16649&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16872-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261114T150000Z
+DTEND:20261114T180000Z
+LOCATION:Decorah\, IA
+SUMMARY:St. Cloud State Wrestling at Luther Open
+DESCRIPTION:St. Cloud State Wrestling at Luther Open\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16872&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16809-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+LOCATION:St. Joseph\, MO
+SUMMARY:St. Cloud State Men's Basketball at Northwest Missouri State University
+DESCRIPTION:St. Cloud State Men's Basketball at Northwest Missouri State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8714\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16809&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16682-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261114T190000Z
+DTEND:20261114T220000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs Minnesota - Sophie's Squad / Ladies Day
+DESCRIPTION:St. Cloud State Women's Hockey vs Minnesota - Sophie's Squad / Ladies Day\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16682&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16837-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+LOCATION:Marshall\, MN
+SUMMARY:St. Cloud State Women's Basketball at Northwest Missouri State University
+DESCRIPTION:St. Cloud State Women's Basketball at Northwest Missouri State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8705\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16837&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16650-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Minnesota Duluth - Military Appreciation Weekend | Specialty Camo Jersey Auction
+DESCRIPTION:St. Cloud State Men's Hockey vs Minnesota Duluth - Military Appreciation Weekend | Specialty Camo Jersey Auction\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1680\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8656\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16650&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16838-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Bemidji State University
+DESCRIPTION:St. Cloud State Women's Basketball vs Bemidji State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8706\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16838&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16733-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+LOCATION:No. 1 Seed
+SUMMARY:St. Cloud State Volleyball vs NCAA Central Region Tournament
+DESCRIPTION:St. Cloud State Volleyball vs NCAA Central Region Tournament\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16733&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16949-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:Rochester\, Minn.
+SUMMARY:St. Cloud State Men's Swim & Dive vs Rochester Invite (Diving)
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs Rochester Invite (Diving)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16949&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16918-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:Rochester\, Minn.
+SUMMARY:St. Cloud State Women's Swim & Dive vs Rochester Invite (Diving)
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs Rochester Invite (Diving)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16918&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16834-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261120T230000Z
+DTEND:20261121T010000Z
+LOCATION:Wisconsin Dells\, WI
+SUMMARY:St. Cloud State Men's Basketball at Northern Michigan University
+DESCRIPTION:St. Cloud State Men's Basketball at Northern Michigan University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8715\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16834&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16841-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261120T233000Z
+DTEND:20261121T013000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Northern Michigan University
+DESCRIPTION:St. Cloud State Women's Basketball vs Northern Michigan University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8707\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16841&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16683-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261121T000000Z
+DTEND:20261121T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs Ohio State
+DESCRIPTION:St. Cloud State Women's Hockey vs Ohio State\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16683&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16651-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261121T010000Z
+DTEND:20261121T040000Z
+LOCATION:Ralph Engelstad Arena | Grand Forks\, N.D.
+SUMMARY:St. Cloud State Men's Hockey at North Dakota
+DESCRIPTION:St. Cloud State Men's Hockey at North Dakota\nTV: MidCo Sports\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1513\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8657\nTickets: https://www.ticketmaster.com/university-of-north-dakota-mens-hockey-grand-forks-north-dakota-11-20-2026/event/0600651A2D840C85?refArtist=K8vZ91719p0&f_simplified_filter=true&f_enable_merch_slot=true\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16651&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16919-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Rochester\, Minn.
+SUMMARY:St. Cloud State Women's Swim & Dive vs Rochester Invite (Diving)
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs Rochester Invite (Diving)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16919&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16950-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Rochester\, Minn.
+SUMMARY:St. Cloud State Men's Swim & Dive vs Rochester Invite (Diving)
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs Rochester Invite (Diving)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16950&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16899-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261121T171500Z
+DTEND:20261121T201500Z
+LOCATION:Yankton Trail Park • Sioux Falls\, S.D.
+SUMMARY:St. Cloud State Women's Cross Country vs NCAA Central Regional - 6k
+DESCRIPTION:St. Cloud State Women's Cross Country vs NCAA Central Regional - 6k\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16899&amp;sport_id=2
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16684-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs Ohio State - Youth Day (all kids receive free admission)
+DESCRIPTION:St. Cloud State Women's Hockey vs Ohio State - Youth Day (all kids receive free admission)\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16684&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16810-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261121T210000Z
+DTEND:20261121T230000Z
+LOCATION:Wisconsin Dells\, WI
+SUMMARY:St. Cloud State Men's Basketball at Lake Superior State University
+DESCRIPTION:St. Cloud State Men's Basketball at Lake Superior State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8716\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16810&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16668-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+LOCATION:Ralph Engelstad Arena | Grand Forks\, N.D.
+SUMMARY:St. Cloud State Men's Hockey at North Dakota
+DESCRIPTION:St. Cloud State Men's Hockey at North Dakota\nTV: MidCo Sports\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1514\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8658\nTickets: https://www.ticketmaster.com/university-of-north-dakota-mens-hockey-grand-forks-north-dakota-11-21-2026/event/0600651A2D880C8A?refArtist=K8vZ91719p0&f_simplified_filter=true&f_enable_merch_slot=true\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16668&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16811-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261124T233000Z
+DTEND:20261125T013000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs Minnesota State University, Mankato
+DESCRIPTION:St. Cloud State Men's Basketball vs Minnesota State University, Mankato\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8717\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16811&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16842-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261125T013000Z
+DTEND:20261125T033000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Minnesota State University, Mankato
+DESCRIPTION:St. Cloud State Women's Basketball vs Minnesota State University, Mankato\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8708\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16842&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16843-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+LOCATION:Lakeland\, FL
+SUMMARY:St. Cloud State Women's Basketball at Florida Southern College
+DESCRIPTION:St. Cloud State Women's Basketball at Florida Southern College\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8709\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16843&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16790-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261127T190000Z
+DTEND:20261127T220000Z
+LOCATION:Gutterson Fieldhose • Burlington\, Vt.
+SUMMARY:St. Cloud State Women's Hockey at Vermont
+DESCRIPTION:St. Cloud State Women's Hockey at Vermont\nTV: ESPN+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16790&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16740-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261128T000000Z
+DTEND:20261128T030000Z
+LOCATION:Gutterson Fieldhouse | Burlington\, Vt.
+SUMMARY:St. Cloud State Men's Hockey at Vermont
+DESCRIPTION:St. Cloud State Men's Hockey at Vermont\nTV: ESPN+\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://www.espn.com/watch/\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8659\nTickets: https://uvmathletics.evenue.net/event/MHK26/09\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16740&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16844-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+LOCATION:Lakeland\, FL
+SUMMARY:St. Cloud State Women's Basketball vs Lynn University
+DESCRIPTION:St. Cloud State Women's Basketball vs Lynn University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8710\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16844&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16791-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261128T190000Z
+DTEND:20261128T220000Z
+LOCATION:Gutterson Fieldhose • Burlington\, Vt.
+SUMMARY:St. Cloud State Women's Hockey at Vermont
+DESCRIPTION:St. Cloud State Women's Hockey at Vermont\nTV: ESPN+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16791&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16741-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+LOCATION:Gutterson Fieldhouse | Burlington\, Vt.
+SUMMARY:St. Cloud State Men's Hockey at Vermont
+DESCRIPTION:St. Cloud State Men's Hockey at Vermont\nTV: ESPN+\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://www.espn.com/watch/\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8660\nTickets: https://uvmathletics.evenue.net/event/MHK26/10\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16741&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16812-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261202T233000Z
+DTEND:20261203T013000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs Winona State University
+DESCRIPTION:St. Cloud State Men's Basketball vs Winona State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8718\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16812&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16845-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261203T013000Z
+DTEND:20261203T033000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Winona State University
+DESCRIPTION:St. Cloud State Women's Basketball vs Winona State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8741\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16845&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16734-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261205
+LOCATION:Municipal Auditorium • Kansas City\, Mo.
+SUMMARY:St. Cloud State Volleyball vs NCAA Championships
+DESCRIPTION:St. Cloud State Volleyball vs NCAA Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16734&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16920-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+LOCATION:Rochester\, Minn.
+SUMMARY:St. Cloud State Women's Swim & Dive vs Rochester Invite (Swimming)
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs Rochester Invite (Swimming)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16920&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16951-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+LOCATION:Rochester\, Minn.
+SUMMARY:St. Cloud State Men's Swim & Dive vs Rochester Invite (Swimming)
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs Rochester Invite (Swimming)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16951&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16952-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+LOCATION:Rochester\, Minn.
+SUMMARY:St. Cloud State Men's Swim & Dive vs Rochester Invite (Swimming)
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs Rochester Invite (Swimming)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16952&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16921-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+LOCATION:Rochester\, Minn.
+SUMMARY:St. Cloud State Women's Swim & Dive vs Rochester Invite (Swimming)
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs Rochester Invite (Swimming)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16921&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16685-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261205T000000Z
+DTEND:20261205T030000Z
+LOCATION:AMSOIL Arena • Duluth\, Minn.
+SUMMARY:St. Cloud State Women's Hockey at Minnesota Duluth
+DESCRIPTION:St. Cloud State Women's Hockey at Minnesota Duluth\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16685&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16873-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261205T010000Z
+DTEND:20261205T040000Z
+LOCATION:Mankato\, MN
+SUMMARY:St. Cloud State Wrestling at Minnesota State University, Mankato
+DESCRIPTION:St. Cloud State Wrestling at Minnesota State University, Mankato\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16873&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16922-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+LOCATION:Rochester\, Minn.
+SUMMARY:St. Cloud State Women's Swim & Dive vs Rochester Invite (Swimming)
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs Rochester Invite (Swimming)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16922&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16953-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+LOCATION:Rochester\, Minn.
+SUMMARY:St. Cloud State Men's Swim & Dive vs Rochester Invite (Swimming)
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs Rochester Invite (Swimming)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16953&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16874-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261205T160000Z
+DTEND:20261205T190000Z
+LOCATION:Moorhead\, MN
+SUMMARY:St. Cloud State Wrestling at Dragon Open
+DESCRIPTION:St. Cloud State Wrestling at Dragon Open\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16874&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16813-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261205T200000Z
+DTEND:20261205T220000Z
+LOCATION:St. Paul\, MN
+SUMMARY:St. Cloud State Men's Basketball at Concordia-St. Paul
+DESCRIPTION:St. Cloud State Men's Basketball at Concordia-St. Paul\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8719\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16813&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16686-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261205T210000Z
+DTEND:20261206T000000Z
+LOCATION:AMSOIL Arena • Duluth\, Minn.
+SUMMARY:St. Cloud State Women's Hockey at Minnesota Duluth
+DESCRIPTION:St. Cloud State Women's Hockey at Minnesota Duluth\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16686&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16846-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261205T220000Z
+DTEND:20261206T000000Z
+LOCATION:St. Paul\, MN
+SUMMARY:St. Cloud State Women's Basketball at Concordia-St. Paul
+DESCRIPTION:St. Cloud State Women's Basketball at Concordia-St. Paul\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8742\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16846&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16875-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261206T190000Z
+DTEND:20261206T220000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Wrestling vs Southwest Minnesota State University - Prep Night
+DESCRIPTION:St. Cloud State Wrestling vs Southwest Minnesota State University - Prep Night\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16875&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16814-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261210T233000Z
+DTEND:20261211T013000Z
+LOCATION:Sioux Falls\, SD
+SUMMARY:St. Cloud State Men's Basketball at Augustana University (SD)
+DESCRIPTION:St. Cloud State Men's Basketball at Augustana University (SD)\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8720\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16814&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16847-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261211T013000Z
+DTEND:20261211T033000Z
+LOCATION:Sioux Falls\, SD
+SUMMARY:St. Cloud State Women's Basketball at Augustana University (SD)
+DESCRIPTION:St. Cloud State Women's Basketball at Augustana University (SD)\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8743\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16847&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16876-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261212T010000Z
+DTEND:20261212T040000Z
+LOCATION:Moorhead\, MN
+SUMMARY:St. Cloud State Wrestling at Minnesota State University Moorhead
+DESCRIPTION:St. Cloud State Wrestling at Minnesota State University Moorhead\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16876&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16652-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261212T010000Z
+DTEND:20261212T040000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Denver - Toys for Tickets | SCSU Ornament Giveaway
+DESCRIPTION:St. Cloud State Men's Hockey vs Denver - Toys for Tickets | SCSU Ornament Giveaway\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1681\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8661\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16652&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16815-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+LOCATION:Wayne\, NE
+SUMMARY:St. Cloud State Men's Basketball at Wayne State College
+DESCRIPTION:St. Cloud State Men's Basketball at Wayne State College\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8721\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16815&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16848-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261212T210000Z
+DTEND:20261212T230000Z
+LOCATION:Wayne\, NE
+SUMMARY:St. Cloud State Women's Basketball at Wayne State College
+DESCRIPTION:St. Cloud State Women's Basketball at Wayne State College\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8744\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16848&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16653-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261213T000000Z
+DTEND:20261213T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Denver - Teddy Bear Toss | SCSU Ornament Giveaway
+DESCRIPTION:St. Cloud State Men's Hockey vs Denver - Teddy Bear Toss | SCSU Ornament Giveaway\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1682\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8662\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16653&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16742-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261217T010000Z
+DTEND:20261217T040000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Bemidji State - First Responders Night
+DESCRIPTION:St. Cloud State Men's Hockey vs Bemidji State - First Responders Night\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1683\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8663\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16742&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16816-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261217T233000Z
+DTEND:20261218T013000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs Sioux Falls
+DESCRIPTION:St. Cloud State Men's Basketball vs Sioux Falls\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8722\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16816&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16849-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261218T013000Z
+DTEND:20261218T033000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Sioux Falls
+DESCRIPTION:St. Cloud State Women's Basketball vs Sioux Falls\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8745\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16849&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16877-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261219T170000Z
+DTEND:20261219T200000Z
+LOCATION:Golden\, CO
+SUMMARY:St. Cloud State Wrestling at John Hancock Duals
+DESCRIPTION:St. Cloud State Wrestling at John Hancock Duals\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16877&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16817-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261219T193000Z
+DTEND:20261219T213000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs Southwest Minnesota State University
+DESCRIPTION:St. Cloud State Men's Basketball vs Southwest Minnesota State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8723\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16817&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16850-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261219T213000Z
+DTEND:20261219T233000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Southwest Minnesota State University
+DESCRIPTION:St. Cloud State Women's Basketball vs Southwest Minnesota State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8746\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16850&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16904-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20261231T000000Z
+DTEND:20261231T020000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs Ripon College
+DESCRIPTION:St. Cloud State Men's Basketball vs Ripon College\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8724\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16904&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16743-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270102T010000Z
+DTEND:20270102T040000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Alaska
+DESCRIPTION:St. Cloud State Men's Hockey vs Alaska\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1684\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8664\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16743&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16818-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270102T190000Z
+DTEND:20270102T210000Z
+LOCATION:Mankato\, MN
+SUMMARY:St. Cloud State Men's Basketball at Minnesota State University, Mankato
+DESCRIPTION:St. Cloud State Men's Basketball at Minnesota State University, Mankato\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8725\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16818&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16851-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270102T210000Z
+DTEND:20270102T230000Z
+LOCATION:Mankato\, MN
+SUMMARY:St. Cloud State Women's Basketball at Minnesota State University, Mankato
+DESCRIPTION:St. Cloud State Women's Basketball at Minnesota State University, Mankato\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8747\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16851&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16744-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Alaska - Pucks & Paws Night
+DESCRIPTION:St. Cloud State Men's Hockey vs Alaska - Pucks & Paws Night\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1685\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8665\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16744&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16878-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+LOCATION:Cedar Falls\, IA
+SUMMARY:St. Cloud State Wrestling at NWCA National Duals
+DESCRIPTION:St. Cloud State Wrestling at NWCA National Duals\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16878&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16819-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270108T233000Z
+DTEND:20270109T013000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs UMary
+DESCRIPTION:St. Cloud State Men's Basketball vs UMary\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8726\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16819&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16687-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270109T000000Z
+DTEND:20270109T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs Minnesota State
+DESCRIPTION:St. Cloud State Women's Hockey vs Minnesota State\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16687&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16654-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270109T010000Z
+DTEND:20270109T040000Z
+LOCATION:Lee & Penny Anderson Arena | St. Paul\, Minn.
+SUMMARY:St. Cloud State Men's Hockey at St. Thomas
+DESCRIPTION:St. Cloud State Men's Hockey at St. Thomas\nTV: NCHC.tv\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1595\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8666\nTickets: https://tommiesports.evenue.net/list/MH\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16654&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16852-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270109T013000Z
+DTEND:20270109T033000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs UMary
+DESCRIPTION:St. Cloud State Women's Basketball vs UMary\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8748\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16852&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16688-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270109T190000Z
+DTEND:20270109T220000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs Minnesota State
+DESCRIPTION:St. Cloud State Women's Hockey vs Minnesota State\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16688&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16820-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270109T193000Z
+DTEND:20270109T213000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs Minot State University
+DESCRIPTION:St. Cloud State Men's Basketball vs Minot State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8727\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16820&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16853-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270109T213000Z
+DTEND:20270109T233000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Minot State University
+DESCRIPTION:St. Cloud State Women's Basketball vs Minot State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8749\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16853&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16655-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+LOCATION:Lee & Penny Anderson Arena | St. Paul\, Minn.
+SUMMARY:St. Cloud State Men's Hockey at St. Thomas
+DESCRIPTION:St. Cloud State Men's Hockey at St. Thomas\nTV: NCHC.tv\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1596\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8667\nTickets: https://tommiesports.evenue.net/list/MH\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16655&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16964-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+LOCATION:Brookings\, S.D.
+SUMMARY:St. Cloud State Men's Swim & Dive at South Dakota State
+DESCRIPTION:St. Cloud State Men's Swim & Dive at South Dakota State\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16964&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16689-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270115T200000Z
+DTEND:20270115T230000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs St. Thomas
+DESCRIPTION:St. Cloud State Women's Hockey vs St. Thomas\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16689&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16821-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270115T233000Z
+DTEND:20270116T013000Z
+LOCATION:Duluth\, MN
+SUMMARY:St. Cloud State Men's Basketball at University of Minnesota Duluth
+DESCRIPTION:St. Cloud State Men's Basketball at University of Minnesota Duluth\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8728\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16821&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16656-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270116T010000Z
+DTEND:20270116T040000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Miami - Alumni Weekend | Player Poster Giveaway
+DESCRIPTION:St. Cloud State Men's Hockey vs Miami - Alumni Weekend | Player Poster Giveaway\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1686\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8668\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16656&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16854-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270116T013000Z
+DTEND:20270116T033000Z
+LOCATION:Duluth\, MN
+SUMMARY:St. Cloud State Women's Basketball at University of Minnesota Duluth
+DESCRIPTION:St. Cloud State Women's Basketball at University of Minnesota Duluth\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8750\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16854&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16879-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270116T150000Z
+DTEND:20270116T180000Z
+LOCATION:Worthington\, MN
+SUMMARY:St. Cloud State Wrestling at Worthington Open
+DESCRIPTION:St. Cloud State Wrestling at Worthington Open\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16879&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16690-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270116T190000Z
+DTEND:20270116T220000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs St. Thomas - Fill the Herb // $1 Tickets // Post-Game Autographs (Odds)
+DESCRIPTION:St. Cloud State Women's Hockey vs St. Thomas - Fill the Herb // $1 Tickets // Post-Game Autographs (Odds)\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16690&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16822-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270116T213000Z
+DTEND:20270116T233000Z
+LOCATION:Bemidji\, MN
+SUMMARY:St. Cloud State Men's Basketball at Bemidji State University
+DESCRIPTION:St. Cloud State Men's Basketball at Bemidji State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8729\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16822&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16855-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270116T233000Z
+DTEND:20270117T013000Z
+LOCATION:Bemidji\, MN
+SUMMARY:St. Cloud State Women's Basketball at Bemidji State University
+DESCRIPTION:St. Cloud State Women's Basketball at Bemidji State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8751\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16855&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16657-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Miami - Alumni Weekend | Ryan Poehling Bobblehead Giveaway
+DESCRIPTION:St. Cloud State Men's Hockey vs Miami - Alumni Weekend | Ryan Poehling Bobblehead Giveaway\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1687\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8669\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16657&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16880-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270117T190000Z
+DTEND:20270117T220000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Wrestling vs Northern State University - Alumni Day
+DESCRIPTION:St. Cloud State Wrestling vs Northern State University - Alumni Day\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16880&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16881-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270122T010000Z
+DTEND:20270122T040000Z
+LOCATION:Bismarck\, N.D.
+SUMMARY:St. Cloud State Wrestling at UMary
+DESCRIPTION:St. Cloud State Wrestling at UMary\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16881&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16823-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270122T233000Z
+DTEND:20270123T013000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs University of Minnesota Crookston
+DESCRIPTION:St. Cloud State Men's Basketball vs University of Minnesota Crookston\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8730\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16823&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16691-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270123T010000Z
+DTEND:20270123T040000Z
+LOCATION:LaBahn Arena • Madison\, Wis.
+SUMMARY:St. Cloud State Women's Hockey at Wisconsin
+DESCRIPTION:St. Cloud State Women's Hockey at Wisconsin\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16691&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16856-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270123T013000Z
+DTEND:20270123T033000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs University of Minnesota Crookston
+DESCRIPTION:St. Cloud State Women's Basketball vs University of Minnesota Crookston\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8752\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16856&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16658-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270123T020000Z
+DTEND:20270123T050000Z
+LOCATION:Ed Robson Arena | Colorado Springs\, Colo.
+SUMMARY:St. Cloud State Men's Hockey at Colorado College
+DESCRIPTION:St. Cloud State Men's Hockey at Colorado College\nTV: NCHC.tv\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1560\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8670\nTickets: https://www.ticketmaster.com/colorado-college-tigers-hockey-tickets/artist/838146?home_away=home\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16658&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16923-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+LOCATION:West Fargo\, N.D.
+SUMMARY:St. Cloud State Women's Swim & Dive at MSU Moorhead Invite
+DESCRIPTION:St. Cloud State Women's Swim & Dive at MSU Moorhead Invite\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16923&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16954-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+LOCATION:West Fargo\, N.D.
+SUMMARY:St. Cloud State Men's Swim & Dive at MSU Moorhead Invite
+DESCRIPTION:St. Cloud State Men's Swim & Dive at MSU Moorhead Invite\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16954&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16824-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270123T193000Z
+DTEND:20270123T213000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs Minnesota State University Moorhead
+DESCRIPTION:St. Cloud State Men's Basketball vs Minnesota State University Moorhead\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8731\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16824&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16857-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270123T213000Z
+DTEND:20270123T233000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Minnesota State University Moorhead
+DESCRIPTION:St. Cloud State Women's Basketball vs Minnesota State University Moorhead\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8753\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16857&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16692-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270124T000000Z
+DTEND:20270124T030000Z
+LOCATION:LaBahn Arena • Madison\, Wis.
+SUMMARY:St. Cloud State Women's Hockey at Wisconsin
+DESCRIPTION:St. Cloud State Women's Hockey at Wisconsin\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16692&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16659-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270124T010000Z
+DTEND:20270124T040000Z
+LOCATION:Ed Robson Arena | Colorado Springs\, Colo.
+SUMMARY:St. Cloud State Men's Hockey at Colorado College
+DESCRIPTION:St. Cloud State Men's Hockey at Colorado College\nTV: NCHC.tv\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1561\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8671\nTickets: https://www.ticketmaster.com/colorado-college-tigers-hockey-tickets/artist/838146?home_away=home\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16659&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16825-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270129T233000Z
+DTEND:20270130T013000Z
+LOCATION:Aberdeen\, SD
+SUMMARY:St. Cloud State Men's Basketball at Northern State University
+DESCRIPTION:St. Cloud State Men's Basketball at Northern State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8732\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16825&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16693-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270130T000000Z
+DTEND:20270130T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs Minnesota Duluth
+DESCRIPTION:St. Cloud State Women's Hockey vs Minnesota Duluth\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16693&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16858-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270130T013000Z
+DTEND:20270130T033000Z
+LOCATION:Aberdeen\, SD
+SUMMARY:St. Cloud State Women's Basketball at Northern State University
+DESCRIPTION:St. Cloud State Women's Basketball at Northern State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8754\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16858&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16924-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+LOCATION:St. Cloud\, Minn., Halenbeck Hall Aquatic Center
+SUMMARY:St. Cloud State Women's Swim & Dive vs SCSU Diving Invite
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs SCSU Diving Invite\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16924&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16955-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+LOCATION:St. Cloud\, Minn., Halenbeck Hall Aquatic Center
+SUMMARY:St. Cloud State Men's Swim & Dive vs SCSU Diving Invite
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs SCSU Diving Invite\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16955&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16694-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270130T200000Z
+DTEND:20270130T230000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs Minnesota Duluth - Senior Day
+DESCRIPTION:St. Cloud State Women's Hockey vs Minnesota Duluth - Senior Day\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16694&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16882-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270130T200000Z
+DTEND:20270130T230000Z
+LOCATION:Sioux Falls\, S.D.
+SUMMARY:St. Cloud State Wrestling at Sioux Falls
+DESCRIPTION:St. Cloud State Wrestling at Sioux Falls\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16882&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16826-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270130T210000Z
+DTEND:20270130T230000Z
+LOCATION:Jamestown\, ND
+SUMMARY:St. Cloud State Men's Basketball at University of Jamestown
+DESCRIPTION:St. Cloud State Men's Basketball at University of Jamestown\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8733\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16826&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16795-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270130T223000Z
+DTEND:20270131T013000Z
+LOCATION:Brainerd International Raceway | Brainerd\, Minn.
+SUMMARY:St. Cloud State Men's Hockey vs St. Thomas - Hockey Day Minnesota
+DESCRIPTION:St. Cloud State Men's Hockey vs St. Thomas - Hockey Day Minnesota\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8672\nTickets: https://events.hometownticketing.com/boxoffice/brainerdhdm27/L2VtYmVkL2V2ZW50LzE4\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16795&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16859-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270130T230000Z
+DTEND:20270131T010000Z
+LOCATION:Jamestown\, ND
+SUMMARY:St. Cloud State Women's Basketball at University of Jamestown
+DESCRIPTION:St. Cloud State Women's Basketball at University of Jamestown\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8755\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16859&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16883-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270131T200000Z
+DTEND:20270131T230000Z
+LOCATION:Sioux Falls\, SD
+SUMMARY:St. Cloud State Wrestling at Augustana University (SD)
+DESCRIPTION:St. Cloud State Wrestling at Augustana University (SD)\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16883&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16827-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270204T233000Z
+DTEND:20270205T013000Z
+LOCATION:Marshall\, MN
+SUMMARY:St. Cloud State Men's Basketball at Southwest Minnesota State University
+DESCRIPTION:St. Cloud State Men's Basketball at Southwest Minnesota State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8734\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16827&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16884-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270205T010000Z
+DTEND:20270205T040000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Wrestling vs University of Jamestown - Prep Night
+DESCRIPTION:St. Cloud State Wrestling vs University of Jamestown - Prep Night\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16884&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16860-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270205T013000Z
+DTEND:20270205T033000Z
+LOCATION:Marshall\, MN
+SUMMARY:St. Cloud State Women's Basketball at Southwest Minnesota State University
+DESCRIPTION:St. Cloud State Women's Basketball at Southwest Minnesota State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8756\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16860&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16695-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270205T230000Z
+DTEND:20270206T020000Z
+LOCATION:OSU Ice Rink • Columbus\, Ohio
+SUMMARY:St. Cloud State Women's Hockey at Ohio State
+DESCRIPTION:St. Cloud State Women's Hockey at Ohio State\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16695&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16660-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+LOCATION:Lawson Arena | Kalamazoo\, Mich.
+SUMMARY:St. Cloud State Men's Hockey at Western Michigan
+DESCRIPTION:St. Cloud State Men's Hockey at Western Michigan\nTV: NCHC.tv\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1620\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8673\nTickets: https://wmubroncos.evenue.net/event/H26/H14\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16660&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16886-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270206T150000Z
+DTEND:20270206T180000Z
+LOCATION:Eau Claire\, WI 
+SUMMARY:St. Cloud State Wrestling at Don Parker Open
+DESCRIPTION:St. Cloud State Wrestling at Don Parker Open\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16886&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16885-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270206T200000Z
+DTEND:20270206T230000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Wrestling vs Minot State University - Prep Night
+DESCRIPTION:St. Cloud State Wrestling vs Minot State University - Prep Night\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16885&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16828-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270206T200000Z
+DTEND:20270206T220000Z
+LOCATION:Sioux Falls\, S.D.
+SUMMARY:St. Cloud State Men's Basketball at Sioux Falls
+DESCRIPTION:St. Cloud State Men's Basketball at Sioux Falls\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8735\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16828&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16696-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270206T200000Z
+DTEND:20270206T230000Z
+LOCATION:OSU Ice Rink • Columbus\, Ohio
+SUMMARY:St. Cloud State Women's Hockey at Ohio State
+DESCRIPTION:St. Cloud State Women's Hockey at Ohio State\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16696&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16861-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270206T220000Z
+DTEND:20270207T000000Z
+LOCATION:Sioux Falls\, S.D.
+SUMMARY:St. Cloud State Women's Basketball at Sioux Falls
+DESCRIPTION:St. Cloud State Women's Basketball at Sioux Falls\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8757\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16861&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16661-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270206T230000Z
+DTEND:20270207T020000Z
+LOCATION:Lawson Arena | Kalamazoo\, Mich.
+SUMMARY:St. Cloud State Men's Hockey at Western Michigan
+DESCRIPTION:St. Cloud State Men's Hockey at Western Michigan\nTV: NCHC.tv\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1621\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8674\nTickets: https://wmubroncos.evenue.net/event/H26/H15\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16661&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16925-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+LOCATION:West Fargo\, N.D.
+SUMMARY:St. Cloud State Women's Swim & Dive vs NSIC Championships
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs NSIC Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16925&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16926-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+LOCATION:West Fargo\, N.D.
+SUMMARY:St. Cloud State Women's Swim & Dive vs NSIC Championships
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs NSIC Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16926&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16829-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270211T233000Z
+DTEND:20270212T013000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs Wayne State College
+DESCRIPTION:St. Cloud State Men's Basketball vs Wayne State College\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8736\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16829&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16862-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270212T013000Z
+DTEND:20270212T033000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Wayne State College
+DESCRIPTION:St. Cloud State Women's Basketball vs Wayne State College\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8758\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16862&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16927-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+LOCATION:West Fargo\, N.D.
+SUMMARY:St. Cloud State Women's Swim & Dive vs NSIC Championships
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs NSIC Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16927&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16697-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270213T000000Z
+DTEND:20270213T030000Z
+LOCATION:Sanford Center • Bemidji\, Minn.
+SUMMARY:St. Cloud State Women's Hockey at Bemidji State
+DESCRIPTION:St. Cloud State Women's Hockey at Bemidji State\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16697&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16662-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270213T010000Z
+DTEND:20270213T040000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Omaha
+DESCRIPTION:St. Cloud State Men's Hockey vs Omaha\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1688\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8675\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16662&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16887-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270213T010000Z
+DTEND:20270213T040000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Wrestling vs Parkside - Senior Night
+DESCRIPTION:St. Cloud State Wrestling vs Parkside - Senior Night\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16887&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16928-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+LOCATION:West Fargo\, N.D.
+SUMMARY:St. Cloud State Women's Swim & Dive vs NSIC Championships
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs NSIC Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16928&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16830-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270213T193000Z
+DTEND:20270213T213000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs Augustana University (SD)
+DESCRIPTION:St. Cloud State Men's Basketball vs Augustana University (SD)\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8737\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16830&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16698-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270213T210000Z
+DTEND:20270214T000000Z
+LOCATION:Sanford Center • Bemidji\, Minn.
+SUMMARY:St. Cloud State Women's Hockey at Bemidji State
+DESCRIPTION:St. Cloud State Women's Hockey at Bemidji State\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16698&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16863-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270213T213000Z
+DTEND:20270213T233000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Augustana University (SD)
+DESCRIPTION:St. Cloud State Women's Basketball vs Augustana University (SD)\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8759\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16863&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16663-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs Omaha - Fan Appreciation Night | Sticker Sheet Giveaway
+DESCRIPTION:St. Cloud State Men's Hockey vs Omaha - Fan Appreciation Night | Sticker Sheet Giveaway\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1689\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8676\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16663&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16965-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+LOCATION:Holland\, Mich.
+SUMMARY:St. Cloud State Men's Swim & Dive vs GLIAC Championships
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs GLIAC Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16965&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16831-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270217T233000Z
+DTEND:20270218T013000Z
+LOCATION:Winona\, MN
+SUMMARY:St. Cloud State Men's Basketball at Winona State University
+DESCRIPTION:St. Cloud State Men's Basketball at Winona State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8738\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16831&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16864-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270218T013000Z
+DTEND:20270218T033000Z
+LOCATION:Winona\, MN
+SUMMARY:St. Cloud State Women's Basketball at Winona State University
+DESCRIPTION:St. Cloud State Women's Basketball at Winona State University\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8760\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16864&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16966-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+LOCATION:Holland\, Mich.
+SUMMARY:St. Cloud State Men's Swim & Dive vs GLIAC Championships
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs GLIAC Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16966&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16967-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+LOCATION:Holland\, Mich.
+SUMMARY:St. Cloud State Men's Swim & Dive vs GLIAC Championships
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs GLIAC Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16967&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16699-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270220T000000Z
+DTEND:20270220T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Women's Hockey vs Minnesota
+DESCRIPTION:St. Cloud State Women's Hockey vs Minnesota\nTV: B1G+\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=C0C2AF77-511B-4AA2-BB74-1D74CFB18DB6&menu_id=8DDFA3E9-458F-4AA9-91D5-2C2CF69D5C82\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16699&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16664-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270220T020000Z
+DTEND:20270220T050000Z
+LOCATION:Magness Arena | Denver\, Colo.
+SUMMARY:St. Cloud State Men's Hockey at Denver
+DESCRIPTION:St. Cloud State Men's Hockey at Denver\nTV: NCHC.tv\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1582\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8677\nTickets: https://denverpioneers.evenue.net/event/H27/H17?&RDAT=schedule&RSRC=comms&utm_source=sidearm&utm_medium=web&utm_campaign=singlegame\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16664&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16968-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+LOCATION:Holland\, Mich.
+SUMMARY:St. Cloud State Men's Swim & Dive vs GLIAC Championships
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs GLIAC Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16968&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16832-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270220T193000Z
+DTEND:20270220T213000Z
+LOCATION:St. Cloud\, MN, Halenbeck Hall
+SUMMARY:St. Cloud State Men's Basketball vs Concordia-St. Paul
+DESCRIPTION:St. Cloud State Men's Basketball vs Concordia-St. Paul\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8739\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16832&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16700-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270220T200000Z
+DTEND:20270220T230000Z
+LOCATION:Ridder Arena • Minneapolis
+SUMMARY:St. Cloud State Women's Hockey at Minnesota
+DESCRIPTION:St. Cloud State Women's Hockey at Minnesota\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16700&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16865-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270220T213000Z
+DTEND:20270220T233000Z
+LOCATION:St. Cloud\, Minn., Halenbeck Hall
+SUMMARY:St. Cloud State Women's Basketball vs Concordia-St. Paul
+DESCRIPTION:St. Cloud State Women's Basketball vs Concordia-St. Paul\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8761\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16865&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16665-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270221T010000Z
+DTEND:20270221T040000Z
+LOCATION:Magness Arena | Denver\, Colo.
+SUMMARY:St. Cloud State Men's Hockey at Denver
+DESCRIPTION:St. Cloud State Men's Hockey at Denver\nTV: NCHC.tv\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1583\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8678\nTickets: https://denverpioneers.evenue.net/event/H27/H18?&RDAT=schedule&RSRC=comms&utm_source=sidearm&utm_medium=web&utm_campaign=singlegame\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16665&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16833-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270302
+LOCATION:TBD
+SUMMARY:St. Cloud State Men's Basketball vs NSIC Tournament
+DESCRIPTION:St. Cloud State Men's Basketball vs NSIC Tournament\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8740\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16833&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16867-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+LOCATION:TBD
+SUMMARY:St. Cloud State Women's Basketball vs NSIC Playoffs (First Round)
+DESCRIPTION:St. Cloud State Women's Basketball vs NSIC Playoffs (First Round)\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8762\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16867&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16785-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270228
+LOCATION:Higher Seed
+SUMMARY:St. Cloud State Women's Hockey at WCHA First Round (Best-of-Three Series)
+DESCRIPTION:St. Cloud State Women's Hockey at WCHA First Round (Best-of-Three Series)\nTV: B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16785&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16666-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270227T010000Z
+DTEND:20270227T040000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs St. Thomas - Player Poster Giveaway
+DESCRIPTION:St. Cloud State Men's Hockey vs St. Thomas - Player Poster Giveaway\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1690\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8679\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16666&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16866-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270302
+LOCATION:Sioux Falls\, SD | Pentagon
+SUMMARY:St. Cloud State Women's Basketball vs NSIC Playoffs (QF-Championship)
+DESCRIPTION:St. Cloud State Women's Basketball vs NSIC Playoffs (QF-Championship)\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8763\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16866&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16888-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270227T160000Z
+DTEND:20270227T190000Z
+LOCATION:Aberdeen\, SD
+SUMMARY:St. Cloud State Wrestling vs Super Region 5 Championships
+DESCRIPTION:St. Cloud State Wrestling vs Super Region 5 Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16888&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16667-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+LOCATION:St. Cloud\, Minn., Herb Brooks National Hockey Center
+SUMMARY:St. Cloud State Men's Hockey vs St. Thomas - Senior Night
+DESCRIPTION:St. Cloud State Men's Hockey vs St. Thomas - Senior Night\nTV: The CW\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Video: https://nchchockey.com/tv/schedule/event/1691\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8680\nTickets: https://scsutickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=71CFAFDD-A52E-427D-AC95-C4A6A3F0B0E2&menu_id=FD275C5F-EEF2-4DF5-8384-449CED98A9D0\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16667&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16786-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+LOCATION:Lee & Penny Anderson Arena • St. Paul\, Minn.
+SUMMARY:St. Cloud State Women's Hockey vs WCHA Final Faceoff Semifinals
+DESCRIPTION:St. Cloud State Women's Hockey vs WCHA Final Faceoff Semifinals\nTV: FOX9+/B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16786&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16969-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270307
+LOCATION:at Higher Seed
+SUMMARY:St. Cloud State Men's Hockey vs NCHC First Round (Best-of-3)
+DESCRIPTION:St. Cloud State Men's Hockey vs NCHC First Round (Best-of-3)\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8681\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16969&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16787-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+LOCATION:Lee & Penny Anderson Arena • St. Paul\, Minn.
+SUMMARY:St. Cloud State Women's Hockey vs WCHA Final Faceoff Championship
+DESCRIPTION:St. Cloud State Women's Hockey vs WCHA Final Faceoff Championship\nTV: FOX9+/B1G+\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16787&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16929-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+LOCATION:Indianapolis\, Ind.
+SUMMARY:St. Cloud State Women's Swim & Dive vs NCAA Championships
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs NCAA Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16929&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16960-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+LOCATION:Indianapolis\, Ind.
+SUMMARY:St. Cloud State Men's Swim & Dive vs NCAA Championships
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs NCAA Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16960&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16961-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+LOCATION:Indianapolis\, Ind.
+SUMMARY:St. Cloud State Men's Swim & Dive vs NCAA Championships
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs NCAA Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16961&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16933-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+LOCATION:Indianapolis\, Ind.
+SUMMARY:St. Cloud State Women's Swim & Dive vs NCAA Championships
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs NCAA Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16933&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16934-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+LOCATION:Indianapolis\, Ind.
+SUMMARY:St. Cloud State Women's Swim & Dive vs NCAA Championships
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs NCAA Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16934&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16962-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+LOCATION:Indianapolis\, Ind.
+SUMMARY:St. Cloud State Men's Swim & Dive vs NCAA Championships
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs NCAA Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16962&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16970-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+LOCATION:at No. 1 seed
+SUMMARY:St. Cloud State Men's Hockey vs NCHC Quarterfinal (No. 5 seed vs. No. 4 seed)
+DESCRIPTION:St. Cloud State Men's Hockey vs NCHC Quarterfinal (No. 5 seed vs. No. 4 seed)\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8682\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16970&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16889-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+LOCATION:Cedar Rapids\, IA
+SUMMARY:St. Cloud State Wrestling vs NCAA Wrestling Championships
+DESCRIPTION:St. Cloud State Wrestling vs NCAA Wrestling Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16889&amp;sport_id=17
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16971-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+LOCATION:at Higher Seed
+SUMMARY:St. Cloud State Men's Hockey vs NCHC Semifinals
+DESCRIPTION:St. Cloud State Men's Hockey vs NCHC Semifinals\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8683\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16971&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16963-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+LOCATION:Indianapolis\, Ind.
+SUMMARY:St. Cloud State Men's Swim & Dive vs NCAA Championships
+DESCRIPTION:St. Cloud State Men's Swim & Dive vs NCAA Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16963&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16935-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+LOCATION:Indianapolis\, Ind.
+SUMMARY:St. Cloud State Women's Swim & Dive vs NCAA Championships
+DESCRIPTION:St. Cloud State Women's Swim & Dive vs NCAA Championships\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16935&amp;sport_id=21
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16980-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270316
+LOCATION:TBD
+SUMMARY:St. Cloud State Men's Basketball vs NCAA Division II Men’s Basketball Regional
+DESCRIPTION:St. Cloud State Men's Basketball vs NCAA Division II Men’s Basketball Regional\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16980&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16972-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+LOCATION:at Higher Seed
+SUMMARY:St. Cloud State Men's Hockey vs NCHC Championship
+DESCRIPTION:St. Cloud State Men's Hockey vs NCHC Championship\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8684\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16972&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16979-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270327
+LOCATION:Allen County War Memorial Coliseum Arena | Fort Wayne\, IN
+SUMMARY:St. Cloud State Men's Basketball vs NCAA Division II Men’s Basketball Championship
+DESCRIPTION:St. Cloud State Men's Basketball vs NCAA Division II Men’s Basketball Championship\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16979&amp;sport_id=6
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16973-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270328
+LOCATION:
+SUMMARY:St. Cloud State Men's Hockey vs NCAA Regionals
+DESCRIPTION:St. Cloud State Men's Hockey vs NCAA Regionals\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8685\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16973&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_16974-admin.scsuhuskies.com
+DTSTAMP:20261026T171341Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270410
+LOCATION:Capital One Arena | Washington\, D.C.
+SUMMARY:St. Cloud State Men's Hockey vs NCAA Frozen Four
+DESCRIPTION:St. Cloud State Men's Hockey vs NCAA Frozen Four\nRadio: KNSI (1450 AM / 99.3 FM) / The Varsity Network App\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-677/content/stcloudstate:allaccess-Live-8686\n
+URL:https://admin.scsuhuskies.com/calendar.aspx?game_id=16974&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
