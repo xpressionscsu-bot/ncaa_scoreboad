@@ -124,6 +124,11 @@ pre{margin:0;background:var(--code-bg);color:var(--code-ink);font:12px/1.5 var(-
         <button id="clear">Clear selection</button>
       </div>
       <div class="acts">
+        <label for="ncaaHtml" style="align-self:center">Non-hockey scores: load saved NCAA stats page(s)</label>
+        <input type="file" id="ncaaHtml" accept=".html,.htm,text/html" multiple>
+      </div>
+      <div class="meta" id="importMsg" role="status"></div>
+      <div class="acts">
         <label for="ics" style="align-self:center">No live SCSU feed? Load .ics</label>
         <input type="file" id="ics" accept=".ics,text/calendar">
       </div>
@@ -145,7 +150,7 @@ var state = {
   tab: "all", q: "",
   ncaa: [],        // games for selected date
   scsu: [],        // all parsed SCSU events
-  sel: {}, manual: {},         // id -> game object (persists across dates)
+  sel: {}, manual: {}, imported: {},         // id -> game object (persists across dates)
   scsuAll: false, win: 1, loading: false, req: 0,
   notes: {}
 };
@@ -155,8 +160,8 @@ function dayKey(d){ return new Intl.DateTimeFormat("en-CA",{timeZone:TZ,year:"nu
 function addDays(key,n){ var p=key.split("-").map(Number); var d=new Date(Date.UTC(p[0],p[1]-1,p[2]+n)); return d.toISOString().slice(0,10); }
 function esc(s){ return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]}); }
 function isScsu(s){ return /st\.?\s*cloud\s*st/i.test(s||""); }
-function save(){ try{ localStorage.setItem(LS, JSON.stringify({sel:state.sel,manual:state.manual,scsuAll:state.scsuAll,win:state.win})); }catch(e){} }
-function load(){ try{ var o=JSON.parse(localStorage.getItem(LS)||"{}"); if(o.sel) state.sel=o.sel; if(o.manual) state.manual=o.manual; state.scsuAll=!!o.scsuAll; if(o.win) state.win=o.win; }catch(e){} }
+function save(){ try{ localStorage.setItem(LS, JSON.stringify({sel:state.sel,manual:state.manual,imported:state.imported,scsuAll:state.scsuAll,win:state.win})); }catch(e){} }
+function load(){ try{ var o=JSON.parse(localStorage.getItem(LS)||"{}"); if(o.sel) state.sel=o.sel; if(o.manual) state.manual=o.manual; if(o.imported) state.imported=o.imported; state.scsuAll=!!o.scsuAll; if(o.win) state.win=o.win; }catch(e){} }
 function note(msg){ var n=$("notice"); n.hidden=!msg; n.textContent=msg||""; }
 
 /* ---------- NCAA feed ---------- */
@@ -276,6 +281,67 @@ function fetchScsu(){
       }
     });
 }
+/* ---------- stats.ncaa.org scoreboard import (non-hockey sports) ---------- */
+function ncaaPageInfo(html){
+  var txt=html.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/g," ").replace(/<[^>]+>/g," ").replace(/\s+/g," ");
+  var m=/(Men's|Women's)?\s*(Baseball|Field Hockey|Football|Basketball|Ice Hockey|Lacrosse|Soccer|Tennis|Volleyball|Water Polo|Softball|Beach Volleyball|Bowling)\s+D-(I{1,3})\s+Scoreboard/.exec(txt);
+  if(!m) return {sport:"Athletics",gender:"",label:"NCAA scoreboard"};
+  return {sport:m[2]==="Beach Volleyball"?"Beach Volleyball":m[2], gender:m[1]?(m[1]==="Women's"?"women":"men"):"", label:(m[1]?m[1]+" ":"")+m[2]+" D-"+m[3]};
+}
+function cleanTeam(n){ return n.replace(/&amp;/g,"&").replace(/\s*\((\d+-\d+(?:-\d+)?)\)\s*$/,"").trim(); }
+function parseNcaaStatsPage(html){
+  var info=ncaaPageInfo(html), ids=[], pos={}, re=/<tr id="contest_(\d+)">/g, m;
+  while((m=re.exec(html))){ if(pos[m[1]]==null){ pos[m[1]]=m.index; ids.push(m[1]); } }
+  var games=[];
+  ids.forEach(function(cid,i){
+    var start=pos[cid], end=i+1<ids.length?pos[ids[i+1]]:html.length, body=html.slice(start,end);
+    var head=html.slice(Math.max(0,start-700),start), dm, d=null, rd=/(\d{2})\/(\d{2})\/(\d{4})\s+(\d{1,2}):(\d{2})\s*([AP]M)/g;
+    while((dm=rd.exec(head))) d=dm;
+    var teams=[], tr=/skipMask" href="[^"]*\/teams\/(\d+)">\s*([^<]+?)\s*<\/a>/g, tm;
+    while((tm=tr.exec(body)) && teams.length<2) teams.push(cleanTeam(tm[2]));
+    if(teams.length<2) return;
+    var scores=[], sr=/id="score_\d+"[^>]*>\s*([^<]*?)\s*<\/div>/g, sm;
+    while((sm=sr.exec(body)) && scores.length<2) scores.push(sm[1]);
+    var rows=[], lt=/<table[^>]*id="linescore_\d+_table"[\s\S]*?<\/table>/.exec(body);
+    if(lt){ var rr=/<tr>([\s\S]*?)<\/tr>/g, r; while((r=rr.exec(lt[0]))){ var cells=[], cr=/<td[^>]*>\s*([^<]*?)\s*<\/td>/g, c; while((c=cr.exec(r[1]))) cells.push(c[1]); rows.push(cells); } }
+    var st=/livestream_status_\d+ livestream_status ([a-z_]+)">\s*([^<]*?)\s*</.exec(body);
+    var hasScore=scores.some(function(x){return x!==""&&x!=null;}), total=scores.reduce(function(a,x){return a+(Number(x)||0)},0);
+    var status = st && /game_over/.test(st[1]) ? "final" : ((hasScore && (total>0||rows.length)) ? "live" : "pre");
+    var us = isScsu(teams[0])?0:(isScsu(teams[1])?1:-1);
+    var sets=null; if(rows.length===2 && us>=0){ sets=[]; for(var k=0;k<rows[0].length;k++) sets.push([Number(rows[us][k]),Number(rows[1-us][k])]); }
+    var h=d?Number(d[4])%12+(d[6]==="PM"?12:0):0;
+    games.push({cid:cid,teams:teams,us:us,scores:scores,status:status,sets:sets,statusText:st?st[2]:"",
+      date:d?(d[3]+"-"+d[1]+"-"+d[2]):"", time:d?(Number(d[4])+":"+d[5]+" "+d[6]):"",
+      ms:d?new Date(Number(d[3]),Number(d[1])-1,Number(d[2]),h,Number(d[5])).getTime():null, info:info});
+  });
+  return games;
+}
+function ncaaToScsu(g,fetched){
+  var us=g.us, them=1-us, mine=Number(g.scores[us]), theirs=Number(g.scores[them]);
+  var hasScore=g.status!=="pre";
+  var out={id:"scsu-ncaa-"+g.cid, source:"scsu", sport:g.info.sport, gender:g.info.gender, date:g.date,
+    title:g.teams[us]+" vs. "+g.teams[them], startTime:g.time, startMs:g.ms, location:"", home:null, status:g.status,
+    url:"https://stats.ncaa.org/contests/"+g.cid+"/box_score", scsu:true, fromNcaa:true, fetched:fetched, sets:g.sets, sport_label:g.info.label};
+  if(hasScore){ out.ncaaScore={us:mine,them:theirs}; }
+  return out;
+}
+function importNcaaHtml(html){
+  var games=parseNcaaStatsPage(html); if(!games) games=[];
+  var mine=games.filter(function(g){return g.us>=0});
+  var fetched=new Date().toISOString(), added=[];
+  mine.forEach(function(g){
+    var ng=ncaaToScsu(g,fetched); added.push(ng);
+    state.imported[ng.id]=ng;
+    if(state.sel[ng.id]) state.sel[ng.id]=ng;
+    // a calendar entry for the same game is replaced by the NCAA one
+    state.scsu.forEach(function(c){
+      if(c.date===ng.date&&c.sport===ng.sport&&c.gender===ng.gender&&state.sel[c.id]){ delete state.sel[c.id]; state.sel[ng.id]=ng; }
+    });
+  });
+  save();
+  var label=(games[0]&&games[0].info.label)||"that page";
+  return {total:games.length, mine:added.length, label:label};
+}
 function sampleScsu(){
   function s(id,sport,gender,title,date,time,loc,home){ return {id:"scsu-sample-"+id,source:"scsu",sport:sport,gender:gender,date:date,title:title,startTime:time,location:loc,home:home,status:"pre",url:"",scsu:true,sample:true}; }
   return [
@@ -289,15 +355,15 @@ function sampleScsu(){
 }
 function scsuWindow(){
   var end=addDays(state.date,state.win-1);
-  // hockey games already shown from NCAA feed are not repeated
   var ncaaScsuDates=state.ncaa.filter(function(g){return g.scsu}).map(function(g){return g.date});
-  return state.scsu.filter(function(g){
+  var imp=Object.keys(state.imported).map(function(k){return state.imported[k]}).filter(function(g){return g.date>=state.date&&g.date<=end});
+  var cal=state.scsu.filter(function(g){
     if(g.date<state.date||g.date>end) return false;
     if(g.sport==="Ice Hockey" && ncaaScsuDates.indexOf(g.date)>=0) return false;
-    return true;
-  }).sort(function(a,b){return a.date<b.date?-1:a.date>b.date?1:0});
+    return !imp.some(function(i){return i.date===g.date&&i.sport===g.sport&&i.gender===g.gender});
+  });
+  return cal.concat(imp).sort(function(a,b){return a.date<b.date?-1:a.date>b.date?1:((a.startMs||0)-(b.startMs||0))});
 }
-
 /* ---------- selection ---------- */
 function toggleGame(g,on){ if(on) state.sel[g.id]=g; else delete state.sel[g.id]; save(); render(); }
 function syncScsuAll(){
@@ -310,8 +376,9 @@ var LIVE_MS=3.5*3600*1000;
 function scsuView(g){
   var m=state.manual[g.id]||null, res=g.result||null, score=null, src="";
   if(m && m.us!==""&&m.us!=null && m.them!==""&&m.them!=null){ score={us:Number(m.us),them:Number(m.them)}; src="manual"; }
+  else if(g.fromNcaa){ if(g.ncaaScore){ score={us:g.ncaaScore.us,them:g.ncaaScore.them}; src="ncaa-stats"; } }
   else if(res){ score={us:res.us,them:res.them}; src=g.scoreSource||"calendar"; }
-  var final = !!((m&&m.final) || (res && src!=="manual"));
+  var final = !!((m&&m.final) || (g.fromNcaa && g.status==="final" && src!=="manual") || (res && src!=="manual"));
   var now=Date.now(), st="pre";
   if(final) st="final";
   else if(score) st="live";
@@ -324,8 +391,9 @@ function outGame(g){
   if(g.source==="ncaa") return {id:g.id,source:"ncaa",sport:g.sport,gender:g.gender,date:g.date,status:g.status,startTime:g.startTime,period:g.period,clock:g.clock,
     away:{name:g.away.name,score:g.away.score,conference:g.away.conf},home:{name:g.home.name,score:g.home.score,conference:g.home.conf},url:g.url,stCloudState:!!g.scsu};
   var v=scsuView(g);
-  return {id:g.id,source:"scsu",sport:g.sport,gender:g.gender,date:g.date,title:g.title,startTime:g.startTime,location:g.location,homeGame:!!g.home,status:v.status,
-    result:v.result,score:v.score?{stCloudState:v.score.us,opponent:v.score.them}:null,scoreSource:v.score?v.src:null,url:g.url,stCloudState:true};
+  return {id:g.id,source:"scsu",sport:g.sport,gender:g.gender,date:g.date,title:g.title,startTime:g.startTime,location:g.location,homeGame:g.home==null?null:!!g.home,status:v.status,
+    result:v.result,score:v.score?{stCloudState:v.score.us,opponent:v.score.them}:null,scoreSource:v.score?v.src:null,
+    sets:g.sets?g.sets.map(function(x){return {stCloudState:x[0],opponent:x[1]}}):undefined,scoreUpdated:g.fetched||undefined,url:g.url,stCloudState:true};
 }
 function buildJson(){
   var games=Object.keys(state.sel).map(function(k){return state.sel[k]}).sort(function(a,b){return a.date<b.date?-1:a.date>b.date?1:(a.id<b.id?-1:1)});
@@ -346,7 +414,7 @@ function gameHtml(g){
   } else {
     var v=scsuView(g), liveLink=g.url||"https://scsuhuskies.com/";
     var man=state.manual[g.id]||{};
-    body='<div class="single">'+esc(g.title)+'</div><div class="meta">'+esc(g.date+" · "+g.sport+(g.gender?" · "+(g.gender==="women"?"Women":"Men"):"")+(g.location?" · "+g.location:""))+'</div>'+
+    body='<div class="single">'+esc(g.title)+'</div><div class="meta">'+esc(g.date+" · "+g.sport+(g.gender?" · "+(g.gender==="women"?"Women":"Men"):"")+(g.location?" · "+g.location:"")+(g.sets&&g.sets.length?" · Sets "+g.sets.map(function(x){return x[0]+"-"+x[1]}).join(", "):""))+'</div>'+
       '<div class="manual" data-man="'+esc(g.id)+'"><label>SCSU <input type="number" min="0" class="m-us" value="'+esc(man.us==null?"":man.us)+'" aria-label="St. Cloud State score"></label>'+
       '<label>Opp <input type="number" min="0" class="m-them" value="'+esc(man.them==null?"":man.them)+'" aria-label="Opponent score"></label>'+
       '<label><input type="checkbox" class="m-final"'+(man.final?" checked":"")+'> Final</label>'+
@@ -437,6 +505,17 @@ $("copy").addEventListener("click",function(){
 $("dl").addEventListener("click",function(){
   var blob=new Blob([$("json").textContent],{type:"application/json"}), a=document.createElement("a");
   a.href=URL.createObjectURL(blob); a.download="scoreboard.json"; document.body.appendChild(a); a.click(); a.remove();
+});
+$("ncaaHtml").addEventListener("change",function(){
+  var files=Array.prototype.slice.call(this.files||[]), input=this; if(!files.length) return;
+  Promise.all(files.map(function(f){return f.text().then(function(t){return {name:f.name,res:importNcaaHtml(t)}});})).then(function(rs){
+    var msg=rs.map(function(r){ return r.res.mine?(r.res.mine+" St. Cloud St. game"+(r.res.mine>1?"s":"")+" from "+r.res.label):("No St. Cloud St. games found in "+r.name+" ("+r.res.total+" games on the page)"); }).join(" | ");
+    $("importMsg").textContent=msg; input.value="";
+    var shown=scsuWindow().some(function(g){return g.fromNcaa});
+    var newest=Object.keys(state.imported).map(function(k){return state.imported[k].date}).sort().pop();
+    if(!shown && newest){ setDate(newest); $("importMsg").textContent+=" Jumped to "+newest+"."; return; }
+    if(state.scsuAll) syncScsuAll(); render();
+  });
 });
 $("ics").addEventListener("change",function(){
   var f=this.files[0]; if(!f) return;
